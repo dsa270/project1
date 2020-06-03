@@ -1,0 +1,5158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>
+    </TimeStampOfAssociatedLegacyPublishXmlFile>
+    <_PublishTargetUrl>D:\web\Upload\N4N</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="100_JESUIT_DELEGATES_IN_SOCIAL_WORK_MEET_IN_PUNE.aspx">
+      <publishTime>11/04/2017 20:43:38</publishTime>
+    </File>
+    <File Include="197_YOUTH_ATTEND_SKILLING_PROGRAMME_OF_PJS.aspx">
+      <publishTime>07/02/2017 00:13:56</publishTime>
+    </File>
+    <File Include="19_INTER_NATIONAL_STUDENTS_GRADUATE_AT_ATMADARSHAN_COUNSELLING_CENTRE.aspx">
+      <publishTime>07/02/2017 00:13:56</publishTime>
+    </File>
+    <File Include="AAdmin_staff.aspx">
+      <publishTime>06/12/2015 09:46:26</publishTime>
+    </File>
+    <File Include="AboutUs.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Account/ChangePassword.aspx">
+      <publishTime>01/02/2018 20:34:36</publishTime>
+    </File>
+    <File Include="Account/ChangePasswordSuccess.aspx">
+      <publishTime>01/02/2018 20:34:12</publishTime>
+    </File>
+    <File Include="Account/Login.aspx">
+      <publishTime>01/02/2018 20:34:12</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>01/02/2018 20:34:14</publishTime>
+    </File>
+    <File Include="Account/Web.config">
+      <publishTime>03/02/2015 18:39:34</publishTime>
+    </File>
+    <File Include="Activities.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Admin.Master">
+      <publishTime>07/12/2018 07:45:27</publishTime>
+    </File>
+    <File Include="AdminDefault.aspx">
+      <publishTime>05/06/2018 18:00:08</publishTime>
+    </File>
+    <File Include="Admission.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Advertisements/AdBTV.jpg">
+      <publishTime>05/09/2018 18:50:53</publishTime>
+    </File>
+    <File Include="Advertisements/NSIT12W.jpg">
+      <publishTime>05/20/2018 16:12:22</publishTime>
+    </File>
+    <File Include="Advertisements/NSITANP.jpg">
+      <publishTime>06/17/2018 23:47:13</publishTime>
+    </File>
+    <File Include="Advertisements/NSITMAB.jpg">
+      <publishTime>06/08/2018 23:26:26</publishTime>
+    </File>
+    <File Include="Advertisements/NSITMAR.jpg">
+      <publishTime>06/08/2018 23:26:26</publishTime>
+    </File>
+    <File Include="Advertisements/NSITPLW.jpg">
+      <publishTime>05/21/2018 12:38:35</publishTime>
+    </File>
+    <File Include="Advertisements/NSITPMW.jpg">
+      <publishTime>05/20/2018 16:12:22</publishTime>
+    </File>
+    <File Include="Advertisements1/AdBTV.jpg">
+      <publishTime>05/09/2018 18:50:53</publishTime>
+    </File>
+    <File Include="Advertisements1/NSIT12W.jpg">
+      <publishTime>05/20/2018 16:12:22</publishTime>
+    </File>
+    <File Include="Advertisements1/NSITPLW.jpg">
+      <publishTime>05/21/2018 12:38:35</publishTime>
+    </File>
+    <File Include="Advertisements1/NSITPMW.jpg">
+      <publishTime>05/20/2018 16:12:22</publishTime>
+    </File>
+    <File Include="AFaculty.aspx">
+      <publishTime>06/12/2015 09:43:50</publishTime>
+    </File>
+    <File Include="AGRICULTURE_MINISTER_OF_BIHAR_INAUGURATING_ORGANIC_HARVEST_FESTIVAL_AT_TARUMITRA.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="AJesuit.aspx">
+      <publishTime>06/12/2015 09:56:42</publishTime>
+    </File>
+    <File Include="All_BIHAR_STREET_PLAY_FESTIVAL_AT_RAVI.aspx">
+      <publishTime>07/02/2017 00:13:56</publishTime>
+    </File>
+    <File Include="AMaint_Staff.aspx">
+      <publishTime>06/12/2015 09:47:57</publishTime>
+    </File>
+    <File Include="ANNUAL_GENERAL_BODY_OF_PJS.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="AN_INSPIRATIONAL_VISIT_TO_MANJHI_THE_MOUNTAIN_MAN.aspx">
+      <publishTime>07/02/2017 00:13:56</publishTime>
+    </File>
+    <File Include="AOPSant.aspx">
+      <publishTime>06/11/2015 21:13:15</publishTime>
+    </File>
+    <File Include="AOurCollege.aspx">
+      <publishTime>06/11/2015 21:15:27</publishTime>
+    </File>
+    <File Include="APrincipal.aspx">
+      <publishTime>06/12/2015 09:16:40</publishTime>
+    </File>
+    <File Include="ASHA_DEEP_ANOTHER_NAME_FOR_COMMITMENT_TO_THE_RURAL_YOUTH.aspx">
+      <publishTime>07/02/2017 00:13:56</publishTime>
+    </File>
+    <File Include="ASHA_DEEP_SKILLING_CENTRE_CELEBRATIONS.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="aspnet_client/FreeTextBox/FTB-FreeTextBox.js">
+      <publishTime>05/06/2018 18:00:08</publishTime>
+    </File>
+    <File Include="aspnet_client/FreeTextBox/FTB-ImageGallery.js">
+      <publishTime>04/16/2018 01:57:03</publishTime>
+    </File>
+    <File Include="aspnet_client/FreeTextBox/FTB-Pro.js">
+      <publishTime>05/06/2018 18:00:08</publishTime>
+    </File>
+    <File Include="aspnet_client/FreeTextBox/FTB-ToolbarItems.js">
+      <publishTime>04/16/2018 01:57:03</publishTime>
+    </File>
+    <File Include="aspnet_client/FreeTextBox/FTB-Utility.js">
+      <publishTime>05/06/2018 18:00:08</publishTime>
+    </File>
+    <File Include="At_St_Michael_in_the_Recent_Past.aspx">
+      <publishTime>07/02/2017 00:13:56</publishTime>
+    </File>
+    <File Include="AWAZEIM_AN_INITIATIVE_FOR_PEACE_AND_RECONCILIATION.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="A_Book_on_Pope_Francis_Released.aspx">
+      <publishTime>07/02/2017 00:13:56</publishTime>
+    </File>
+    <File Include="BADI_KHABAR/test-1.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="BADI_KHABAR/test.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="BATCH_25_OF_SKILLING_THE_YOUTH.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Bihar.aspx">
+      <publishTime>04/21/2018 12:23:55</publishTime>
+    </File>
+    <File Include="BIHAR_IN_FLOODS.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/AjaxMin.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/ar/AjaxControlToolkit.resources.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/cs/AjaxControlToolkit.resources.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/de/AjaxControlToolkit.resources.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/es/AjaxControlToolkit.resources.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/fr/AjaxControlToolkit.resources.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/FreeTextBox.dll">
+      <publishTime>02/18/2018 21:27:34</publishTime>
+    </File>
+    <File Include="bin/GoogleTranslateAPI.dll">
+      <publishTime>06/03/2008 17:33:12</publishTime>
+    </File>
+    <File Include="bin/he/AjaxControlToolkit.resources.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/hi/AjaxControlToolkit.resources.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/IGTNews4Nation2018.dll">
+      <publishTime>07/13/2018 06:11:51</publishTime>
+    </File>
+    <File Include="bin/it/AjaxControlToolkit.resources.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>02/19/2011 11:24:14</publishTime>
+    </File>
+    <File Include="bin/ja/AjaxControlToolkit.resources.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/ko/AjaxControlToolkit.resources.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>05/28/2008 15:30:38</publishTime>
+    </File>
+    <File Include="bin/nl/AjaxControlToolkit.resources.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/patnajesuits2017.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/patnajesuits2017.dll.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/pl/AjaxControlToolkit.resources.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/pt/AjaxControlToolkit.resources.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/ru/AjaxControlToolkit.resources.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/tr-TR/AjaxControlToolkit.resources.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/XAVIERCOLLEGEPATNA.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/XAVIERCOLLEGEPATNA.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/xmlw/sitevisit.xml">
+      <publishTime>01/02/2018 20:22:26</publishTime>
+    </File>
+    <File Include="bin/zh-CHS/AjaxControlToolkit.resources.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="bin/zh-CHT/AjaxControlToolkit.resources.dll">
+      <publishTime>03/02/2015 18:39:32</publishTime>
+    </File>
+    <File Include="Bishops.aspx">
+      <publishTime>07/04/2017 22:53:50</publishTime>
+    </File>
+    <File Include="BOOK_EDUCATION_OF_THE_MARGINALISED.aspx">
+      <publishTime>07/02/2017 00:13:56</publishTime>
+    </File>
+    <File Include="Book_on_Environment_in_Bihar_Released.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="BOOK_RELEASE_AT_XAVIERS_PATNA.aspx">
+      <publishTime>08/08/2017 19:26:26</publishTime>
+    </File>
+    <File Include="bower.json">
+      <publishTime>04/04/2014 23:37:18</publishTime>
+    </File>
+    <File Include="Business.aspx">
+      <publishTime>05/06/2018 18:02:10</publishTime>
+    </File>
+    <File Include="Cancer_Awareness_by_St_Xavier_College_Digha.aspx">
+      <publishTime>07/02/2017 00:13:56</publishTime>
+    </File>
+    <File Include="CAPTCHA.aspx">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="CAREER.aspx">
+      <publishTime>05/06/2018 18:02:10</publishTime>
+    </File>
+    <File Include="Careers.aspx">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="Carrier.aspx">
+      <publishTime>04/21/2018 13:14:36</publishTime>
+    </File>
+    <File Include="CCertificate.aspx">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="Celebration_of_First_Holy_Communion.aspx">
+      <publishTime>07/02/2017 00:13:56</publishTime>
+    </File>
+    <File Include="Celebration_of_the_Holy_Sacrament_of_Confirmation_Queen_of_the_Apostles_Church.aspx">
+      <publishTime>07/02/2017 00:13:56</publishTime>
+    </File>
+    <File Include="CForthcoming.aspx">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="CFounation.aspx">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="CGaya.aspx">
+      <publishTime>06/01/2018 23:55:21</publishTime>
+    </File>
+    <File Include="CGBA.aspx">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="CGBBA.aspx">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="CGBBE.aspx">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="CGBBM.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="CGBCA.aspx">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="CGBCOM.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="CGBCOMP.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="CGBMC.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="CHENARI_HAS_A_PLACE_FOR_PRAYER_WORSHIP.aspx">
+      <publishTime>07/02/2017 00:13:56</publishTime>
+    </File>
+    <File Include="Christians_Pray_for_personal_experience_of_the_Divine_mercy.aspx">
+      <publishTime>07/02/2017 00:13:56</publishTime>
+    </File>
+    <File Include="ChristmasMilan.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Christmas_Celebrations_in_the_Province.aspx">
+      <publishTime>07/02/2017 00:13:56</publishTime>
+    </File>
+    <File Include="CHRISTMAS_GIFTS.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="CHRISTMAS_WITH_RURAL_CHILDREN.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Conference.aspx">
+      <publishTime>06/11/2015 21:24:37</publishTime>
+    </File>
+    <File Include="ContactUs.aspx">
+      <publishTime>07/08/2017 08:47:40</publishTime>
+    </File>
+    <File Include="Course.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="CPatna.aspx">
+      <publishTime>06/01/2018 23:50:11</publishTime>
+    </File>
+    <File Include="CREATION_AND_RESPONSIBILITY_ROBERT_ATHICKAL.aspx">
+      <publishTime>07/05/2017 20:56:38</publishTime>
+    </File>
+    <File Include="Crime.aspx">
+      <publishTime>05/06/2018 18:02:10</publishTime>
+    </File>
+    <File Include="css/bootstrap-theme.css">
+      <publishTime>06/26/2017 00:27:12</publishTime>
+    </File>
+    <File Include="css/bootstrap-theme.css.map">
+      <publishTime>06/26/2017 00:27:12</publishTime>
+    </File>
+    <File Include="css/bootstrap-theme.min.css">
+      <publishTime>06/26/2017 00:27:12</publishTime>
+    </File>
+    <File Include="css/bootstrap-theme.min.css.map">
+      <publishTime>06/26/2017 00:27:12</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>05/14/2018 09:51:23</publishTime>
+    </File>
+    <File Include="css/bootstrap.css.map">
+      <publishTime>05/06/2018 18:00:09</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>05/14/2018 09:51:23</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css.map">
+      <publishTime>05/06/2018 18:00:10</publishTime>
+    </File>
+    <File Include="css/FreeTextBox.css">
+      <publishTime>05/06/2018 18:00:10</publishTime>
+    </File>
+    <File Include="css/green.css">
+      <publishTime>05/06/2018 18:00:10</publishTime>
+    </File>
+    <File Include="css/menu.css">
+      <publishTime>05/14/2018 14:11:25</publishTime>
+    </File>
+    <File Include="css/pink.css">
+      <publishTime>05/06/2018 18:00:10</publishTime>
+    </File>
+    <File Include="css/red.css">
+      <publishTime>05/06/2018 18:00:10</publishTime>
+    </File>
+    <File Include="data/1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/7.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/ADAY14_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/ADAY14_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/ADAY14_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/APD1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/APD2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/APD3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/BBA061213.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/BBE.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/BDC14WH1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/BDC14WH2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/BMC.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/bookrelease.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/elecaware1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/elecaware2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FD14S_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FD14S_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FD14S_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FEDC1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FEDC2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FEDC3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/foundation_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/foundation_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/foundation_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FRD14S_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FRD14S_10.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FRD14S_11.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FRD14S_12.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FRD14S_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FRD14S_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FRD14S_4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FRD14S_5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FRD14S_6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FRD14S_7.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FRD14S_8.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/FRD14S_9.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/HDSC02808.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/HDSC02835.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/HDSC02873.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/HDSC02896.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/HDSC02916.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/HDSC03371.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/HDSC03373.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/HDSC03375.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/HDSC03376.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/HDSC03379.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/HDSC03383.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/HDSC03384.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/HDSC03389.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/HDSC03391.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/hindi.xml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/hindidebate_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/hindidebate_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/hindidebate_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/hindidebate_4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/IC14WH1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/IC14WH2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/IC14WH3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/JY01.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/JY02.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/JY03.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/JY04.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/JY05.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/kerTaru1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/kerTaru2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/Main.html">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/Main.swf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/Main11.swf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/Pamphlet141.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/Pamphlet142.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/Pamplet_2014.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/PD131.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/PD132.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/PD133.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/PD134.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/PORTFOLIODATA.xml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/PORTFOLIODATA1.xml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/raymond.xml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/SC14S_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/SC14S_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/SC14S_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/slide.xml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/slide2013.xml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/ST03011401.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/ST03011402.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/st1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/st2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/st2611.xml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/st2611a.xml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/stker1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/stker10.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/stker11.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/stker12.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/stker2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/stker3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/stker4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/stker5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/stker6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/stker7.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/stker8.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/stker9.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/STMANVA1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/STMANVA2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/STMANVA3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/stxc2909.xml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/STXCR2V.xml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/STXCtaru.xml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/sxc091201.xml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/sxc091202.xml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/sxch161213.xml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/sxch221213.xml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/SXCS14_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/SXCS14_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/SXCS14_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/SXCS14_4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/TaruTripF1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/TaruTripF2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/TaruTripF3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/THDSC02808.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/THDSC02835.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/THDSC02873.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/THDSC02896.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/THDSC02916.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/THDSC03371.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/THDSC03373.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/THDSC03375.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/THDSC03376.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/THDSC03379.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/THDSC03383.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/THDSC03384.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/THDSC03389.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/THDSC03391.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/Thumbs.db">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/TNM0.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/TNM1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/TNM2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/TWDSC03233.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/TWDSC03245.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/TWDSC03248.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/TWDSC03283.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/TWDSC03290.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/TWDSC03298.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/TWDSC03309.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/TWDSC03317.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/TWDSC03326.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/W1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/W2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/W3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/WDAY14_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/WDAY14_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/WDSC03233.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/WDSC03245.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/WDSC03248.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/WDSC03283.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/WDSC03290.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/WDSC03298.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/WDSC03309.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/WDSC03317.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/WDSC03326.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/WH14S_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/WH14S_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/WH14S_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/XMAS131.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/XMAS132.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="data/XMAS133.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Datewise_Visit_Report.aspx">
+      <publishTime>06/06/2018 09:37:03</publishTime>
+    </File>
+    <File Include="Dedication.aspx">
+      <publishTime>07/04/2017 22:50:40</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>05/28/2018 15:17:05</publishTime>
+    </File>
+    <File Include="Delhi.aspx">
+      <publishTime>04/21/2018 12:25:40</publishTime>
+    </File>
+    <File Include="DialogueM.Master">
+      <publishTime>07/06/2017 08:16:52</publishTime>
+    </File>
+    <File Include="Downloads/NSIT_in_Brief.pdf">
+      <publishTime>06/17/2018 23:48:10</publishTime>
+    </File>
+    <File Include="Downloads/QB_BBA.zip">
+      <publishTime>10/11/2015 08:30:17</publishTime>
+    </File>
+    <File Include="Downloads/QB_BBE.zip">
+      <publishTime>10/11/2015 08:30:17</publishTime>
+    </File>
+    <File Include="Downloads/QB_BCA.zip">
+      <publishTime>10/11/2015 08:30:18</publishTime>
+    </File>
+    <File Include="Downloads/QB_BCP.zip">
+      <publishTime>10/11/2015 08:30:18</publishTime>
+    </File>
+    <File Include="Downloads/QB_BMC.zip">
+      <publishTime>10/11/2015 08:30:18</publishTime>
+    </File>
+    <File Include="DR_SUSHIL_SJ_PUBLISHES_BOOK_ON_EMANCIPATION_OF_DALITS_IN_HINDI_LITERATURE.aspx">
+      <publishTime>07/02/2017 00:13:56</publishTime>
+    </File>
+    <File Include="ECOLOGY.Master">
+      <publishTime>07/06/2017 08:16:52</publishTime>
+    </File>
+    <File Include="ecology.swf">
+      <publishTime>07/05/2017 00:03:58</publishTime>
+    </File>
+    <File Include="ECOLOGYD.aspx">
+      <publishTime>07/05/2017 00:03:58</publishTime>
+    </File>
+    <File Include="ECOLOGYM.aspx">
+      <publishTime>07/05/2017 00:03:58</publishTime>
+    </File>
+    <File Include="educ.swf">
+      <publishTime>07/04/2017 23:56:08</publishTime>
+    </File>
+    <File Include="EducationD.aspx">
+      <publishTime>07/04/2017 23:56:08</publishTime>
+    </File>
+    <File Include="EducationM.aspx">
+      <publishTime>07/04/2017 23:56:08</publishTime>
+    </File>
+    <File Include="EducationM.Master">
+      <publishTime>07/06/2017 08:16:52</publishTime>
+    </File>
+    <File Include="EMBRACING_NON_VIOLENCE.aspx">
+      <publishTime>10/02/2017 20:29:34</publishTime>
+    </File>
+    <File Include="EMPOWERING_THROUGH_EDUCATION.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Empowerment_of_Musahar_Community_by_Jeevan_Sangham.aspx">
+      <publishTime>07/02/2017 00:13:56</publishTime>
+    </File>
+    <File Include="EMPOWERMENT_THROUGH_EDUCATION_MANOS_VISIT.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="Energising_Pastoral_Ministry_with_Ignatian_Spirituality.aspx">
+      <publishTime>11/10/2017 07:43:54</publishTime>
+    </File>
+    <File Include="ER1.aspx">
+      <publishTime>07/11/2017 08:12:42</publishTime>
+    </File>
+    <File Include="ER10.aspx">
+      <publishTime>07/11/2017 08:12:42</publishTime>
+    </File>
+    <File Include="ER11.aspx">
+      <publishTime>07/11/2017 08:12:40</publishTime>
+    </File>
+    <File Include="ER12.aspx">
+      <publishTime>07/11/2017 08:12:40</publishTime>
+    </File>
+    <File Include="ER13.aspx">
+      <publishTime>07/11/2017 08:12:40</publishTime>
+    </File>
+    <File Include="ER14.aspx">
+      <publishTime>07/11/2017 08:12:40</publishTime>
+    </File>
+    <File Include="ER15.aspx">
+      <publishTime>07/11/2017 08:12:40</publishTime>
+    </File>
+    <File Include="ER16.aspx">
+      <publishTime>07/11/2017 08:12:40</publishTime>
+    </File>
+    <File Include="ER17.aspx">
+      <publishTime>07/11/2017 08:12:40</publishTime>
+    </File>
+    <File Include="ER18.aspx">
+      <publishTime>07/11/2017 08:12:40</publishTime>
+    </File>
+    <File Include="ER19.aspx">
+      <publishTime>07/11/2017 08:12:40</publishTime>
+    </File>
+    <File Include="ER2.aspx">
+      <publishTime>07/11/2017 08:12:40</publishTime>
+    </File>
+    <File Include="ER20.aspx">
+      <publishTime>07/11/2017 08:12:40</publishTime>
+    </File>
+    <File Include="ER21.aspx">
+      <publishTime>07/11/2017 08:09:12</publishTime>
+    </File>
+    <File Include="ER22.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ER3.aspx">
+      <publishTime>07/11/2017 08:12:40</publishTime>
+    </File>
+    <File Include="ER4.aspx">
+      <publishTime>07/11/2017 08:12:40</publishTime>
+    </File>
+    <File Include="ER5.aspx">
+      <publishTime>07/11/2017 08:12:40</publishTime>
+    </File>
+    <File Include="ER6.aspx">
+      <publishTime>07/11/2017 08:12:38</publishTime>
+    </File>
+    <File Include="ER7.aspx">
+      <publishTime>07/11/2017 08:12:38</publishTime>
+    </File>
+    <File Include="ER8.aspx">
+      <publishTime>07/11/2017 08:12:38</publishTime>
+    </File>
+    <File Include="ER9.aspx">
+      <publishTime>07/11/2017 08:12:38</publishTime>
+    </File>
+    <File Include="FAIRY_TREE_HOUSE_ON_A_KAMROOP_TREE.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="FAQ.aspx">
+      <publishTime>07/06/2017 08:16:52</publishTime>
+    </File>
+    <File Include="FAREWELL_TO_A_GREAT_SOUL.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="FATHER_OF_ORPHANS.aspx">
+      <publishTime>07/05/2017 19:54:10</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>05/13/2018 15:14:31</publishTime>
+    </File>
+    <File Include="FINANCIAL_INCLUSION_IN_EDUCATION_OF_THE_MARGINALIZED_IN_BIHAR.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>06/26/2017 00:27:54</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>06/26/2017 00:27:54</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>06/26/2017 00:27:54</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>06/26/2017 00:27:54</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>06/26/2017 00:27:54</publishTime>
+    </File>
+    <File Include="fonts/Kruti-Dev-010.ttf.eot">
+      <publishTime>01/12/2018 22:11:56</publishTime>
+    </File>
+    <File Include="fonts/Kruti-Dev-010.ttf.svg">
+      <publishTime>01/12/2018 22:11:56</publishTime>
+    </File>
+    <File Include="fonts/Kruti-Dev-010.ttf.woff">
+      <publishTime>01/12/2018 22:11:56</publishTime>
+    </File>
+    <File Include="FormationD.aspx">
+      <publishTime>07/04/2017 23:37:54</publishTime>
+    </File>
+    <File Include="FormationM.aspx">
+      <publishTime>07/04/2017 23:37:54</publishTime>
+    </File>
+    <File Include="FormationM.Master">
+      <publishTime>07/06/2017 08:16:52</publishTime>
+    </File>
+    <File Include="ftb.imagegallery.aspx">
+      <publishTime>05/11/2018 18:46:42</publishTime>
+    </File>
+    <File Include="Gadgets.aspx">
+      <publishTime>05/06/2018 18:02:10</publishTime>
+    </File>
+    <File Include="Gallery.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="General_Assistant_and_Regional_of_Assistant_of_South_Asia_visits_Bihar.aspx">
+      <publishTime>11/09/2017 21:22:56</publishTime>
+    </File>
+    <File Include="GIVE_PEACE_A_CHANCE.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>07/11/2017 22:33:58</publishTime>
+    </File>
+    <File Include="GREEN_GROUP_ADOPTS_TREES_AS_BROTHERS_TO_OBSERVE_SIBLING_FESTIVAL.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Healing.Master">
+      <publishTime>07/06/2017 08:16:52</publishTime>
+    </File>
+    <File Include="Health.aspx">
+      <publishTime>04/21/2018 12:28:01</publishTime>
+    </File>
+    <File Include="HEALTH_MANTRA.aspx">
+      <publishTime>05/06/2018 18:02:10</publishTime>
+    </File>
+    <File Include="heduc.swf">
+      <publishTime>07/05/2017 00:04:28</publishTime>
+    </File>
+    <File Include="HigherEducation.Master">
+      <publishTime>07/06/2017 08:16:52</publishTime>
+    </File>
+    <File Include="HigherEducationD.aspx">
+      <publishTime>07/05/2017 00:04:28</publishTime>
+    </File>
+    <File Include="HigherEducationM.aspx">
+      <publishTime>07/05/2017 00:04:26</publishTime>
+    </File>
+    <File Include="hindi.swf">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="Historian_applauds_Bihar_Religio_cultural_heritage.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="History.aspx">
+      <publishTime>07/04/2017 22:51:00</publishTime>
+    </File>
+    <File Include="Horoscope.aspx">
+      <publishTime>05/06/2018 18:02:10</publishTime>
+    </File>
+    <File Include="HTMLSC.zip">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="icons/adobe.PNG">
+      <publishTime>01/27/2018 22:31:24</publishTime>
+    </File>
+    <File Include="icons/android-icon-144x144.png">
+      <publishTime>05/13/2018 14:38:28</publishTime>
+    </File>
+    <File Include="icons/android-icon-192x192.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/android-icon-36x36.png">
+      <publishTime>05/13/2018 14:38:28</publishTime>
+    </File>
+    <File Include="icons/android-icon-48x48.png">
+      <publishTime>05/13/2018 14:38:28</publishTime>
+    </File>
+    <File Include="icons/android-icon-72x72.png">
+      <publishTime>05/13/2018 14:38:28</publishTime>
+    </File>
+    <File Include="icons/android-icon-96x96.png">
+      <publishTime>05/13/2018 14:38:28</publishTime>
+    </File>
+    <File Include="icons/apple-icon-114x114.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/apple-icon-120x120.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/apple-icon-144x144.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/apple-icon-152x152.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/apple-icon-180x180.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/apple-icon-57x57.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/apple-icon-60x60.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/apple-icon-72x72.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/apple-icon-76x76.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/apple-icon-precomposed.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/apple-icon.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/browserconfig.xml">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/calendar.gif">
+      <publishTime>01/27/2018 22:31:24</publishTime>
+    </File>
+    <File Include="icons/Calendar.png">
+      <publishTime>01/27/2018 22:31:24</publishTime>
+    </File>
+    <File Include="icons/csv.PNG">
+      <publishTime>01/27/2018 22:31:24</publishTime>
+    </File>
+    <File Include="icons/delete.png">
+      <publishTime>01/27/2018 22:31:24</publishTime>
+    </File>
+    <File Include="icons/edit.png">
+      <publishTime>01/27/2018 22:31:24</publishTime>
+    </File>
+    <File Include="icons/excel.PNG">
+      <publishTime>01/27/2018 22:31:24</publishTime>
+    </File>
+    <File Include="icons/favicon-16x16.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/favicon-32x32.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/favicon-96x96.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/IGT.jpg">
+      <publishTime>01/27/2018 22:31:24</publishTime>
+    </File>
+    <File Include="icons/manifest.json">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/ms-icon-144x144.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/ms-icon-150x150.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/ms-icon-310x310.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/ms-icon-70x70.png">
+      <publishTime>05/13/2018 14:38:29</publishTime>
+    </File>
+    <File Include="icons/word.PNG">
+      <publishTime>01/27/2018 22:31:24</publishTime>
+    </File>
+    <File Include="Image/announcement.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/announcement1.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/Back.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/BackB.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/Background.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/Backgroundo.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/Bank_Logo.png">
+      <publishTime>10/01/2015 19:35:35</publishTime>
+    </File>
+    <File Include="Image/bg_black.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/bg_cyan.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/bg_white.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/BR.jpg">
+      <publishTime>05/18/2018 13:09:53</publishTime>
+    </File>
+    <File Include="Image/Ecology.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/Education.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/fb.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/fbw.jpg">
+      <publishTime>06/11/2015 18:44:20</publishTime>
+    </File>
+    <File Include="Image/fbw.png">
+      <publishTime>06/11/2015 19:04:06</publishTime>
+    </File>
+    <File Include="Image/Formation.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/HE.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/ihslogo.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/login.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/MiddleBackground.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/MUSICIANS.jpg">
+      <publishTime>07/11/2017 22:47:10</publishTime>
+    </File>
+    <File Include="Image/News4Nation_Logo.jpg">
+      <publishTime>01/04/2018 10:52:50</publishTime>
+    </File>
+    <File Include="Image/News4Nation_LogoOriginalNew.jpg">
+      <publishTime>05/01/2018 14:35:41</publishTime>
+    </File>
+    <File Include="Image/News4Nation_LogoW.jpg">
+      <publishTime>01/04/2018 10:49:58</publishTime>
+    </File>
+    <File Include="Image/PastoralFP.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/PJS1366_150.jpg">
+      <publishTime>07/09/2017 21:55:34</publishTime>
+    </File>
+    <File Include="Image/QW1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW10.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW11.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW12.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW13.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW14.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW15.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW16.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW17.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW18.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW19.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW20.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW21.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW22.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW23.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW24.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW7.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW8.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/QW9.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/RS.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/SA.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/SC.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/STARnew.gif">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/stnew.gif">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/stxavcolLogo.JPG">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/stxc.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/st_announcement.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/st_announcement1.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/st_login.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/st_prosp_form.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/st_prosp_form1.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/st_wmail.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/Thumbs.db">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/TMUSICIANS.jpg">
+      <publishTime>07/11/2017 22:47:10</publishTime>
+    </File>
+    <File Include="Image/UC.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/UC.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/under_construction.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/wmail.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/xaviercmtlogo.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/xaviercmtlogo.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/xavierheading.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/xavierheading.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/xavierheading.psd">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Image/xavierlogo.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/xavierlogo.png">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="Image/YouthFP.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="images/arrow.png">
+      <publishTime>06/01/2015 21:16:58</publishTime>
+    </File>
+    <File Include="images/downarrow.png">
+      <publishTime>06/01/2015 21:16:58</publishTime>
+    </File>
+    <File Include="images/downarrowblack.png">
+      <publishTime>06/01/2015 21:16:58</publishTime>
+    </File>
+    <File Include="images/menubtn.png">
+      <publishTime>06/01/2015 21:16:58</publishTime>
+    </File>
+    <File Include="images/trianglewhite.png">
+      <publishTime>06/01/2015 21:16:58</publishTime>
+    </File>
+    <File Include="ImageService.asmx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="Imagestaff/Administrator.jpg">
+      <publishTime>03/05/2013 17:32:34</publishTime>
+    </File>
+    <File Include="Imagestaff/Ajay.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Akriti.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Animesh.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Anumeha.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Anurag.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Bela.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Bhagwan Ram.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Bidya.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Br. Joseph Anthonydoss, Treasurer.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Dr.Marie.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Fr. Rajesh Jacob Bhaju, Administrator.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Imranul.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Jasmin.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Kalapura.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/KalpanaKumari.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Mariyam.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Md.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/NelsonEkka.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Nishaant.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Nishaant1.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Principal.JPG">
+      <publishTime>03/05/2013 17:32:34</publishTime>
+    </File>
+    <File Include="Imagestaff/Priyanka.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/RajuRajesh.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Ratish.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/rekha.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Sanjay.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Shakeel.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Shashi.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Shikha.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/St_Francis.jpg">
+      <publishTime>03/05/2013 17:56:12</publishTime>
+    </File>
+    <File Include="Imagestaff/Sushil.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/Treasurer.jpg">
+      <publishTime>03/05/2013 17:32:34</publishTime>
+    </File>
+    <File Include="Imagestaff/VikashBenjamiSha.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Imagestaff/VPrincipal.jpg">
+      <publishTime>03/05/2013 17:32:34</publishTime>
+    </File>
+    <File Include="Index.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="International_Womens_Day_Celebrated_at_Gaunaha_Champaran.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="INTER_SCHOOL_ECO_SEMINAR_AT_BOKARO.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="JAZBA_EXPERIENCE_OF_TRANSFORMATION.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="JCSA_DEVELOPMENT_DIRECTORS_DISCUSS_THRUST_AREAS_FOR_SOUTH_ASIA.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="Jeevan_Sangham_Organizes_International_Human_Rights_Day.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="JESUITS_ENHANCING_QUALITY_EDUCATION_IN_THE_GOVERNMENT_SCHOOLS_OF_BIHAR.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="JESUITS_IN_SOUTH_ASIA_PLEDGE_TO_WORK_FOR_PEACE_RECONCILIATION.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="JESUIT_CONFERENCE_OF_SOUTH_ASIA_MEET_IN_JABALPUR.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="Jharkhand.aspx">
+      <publishTime>04/21/2018 12:24:15</publishTime>
+    </File>
+    <File Include="Jorge_Eduardo_Serrano_Ordenez_from_Rome_visits_Patna_Jesuit_Province.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="JpegImage.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="jquery.bxslider.css">
+      <publishTime>04/05/2014 00:14:38</publishTime>
+    </File>
+    <File Include="jquery.bxslider.js">
+      <publishTime>04/05/2014 00:14:38</publishTime>
+    </File>
+    <File Include="jquery.bxslider.min.js">
+      <publishTime>04/05/2014 00:14:38</publishTime>
+    </File>
+    <File Include="jquery.min.js">
+      <publishTime>06/03/2015 14:06:23</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>06/26/2017 00:27:32</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>06/26/2017 00:27:32</publishTime>
+    </File>
+    <File Include="js/jquery-1.7.2.min.js">
+      <publishTime>06/01/2015 21:17:12</publishTime>
+    </File>
+    <File Include="js/npm.js">
+      <publishTime>06/26/2017 00:27:32</publishTime>
+    </File>
+    <File Include="js/red.js">
+      <publishTime>06/01/2015 21:17:12</publishTime>
+    </File>
+    <File Include="js/script.js">
+      <publishTime>06/01/2015 21:17:12</publishTime>
+    </File>
+    <File Include="Jubilee_Celebration_2016.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="Khabarchi.aspx">
+      <publishTime>04/29/2018 13:01:46</publishTime>
+    </File>
+    <File Include="LEAF.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="LegalAid.Master">
+      <publishTime>07/06/2017 08:16:52</publishTime>
+    </File>
+    <File Include="Listen_to_government.aspx">
+      <publishTime>04/21/2018 13:13:10</publishTime>
+    </File>
+    <File Include="Literature_world.aspx">
+      <publishTime>05/06/2018 18:02:10</publishTime>
+    </File>
+    <File Include="LIVING_ARRUPES_LEGACY_TODAY.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>05/06/2018 18:00:11</publishTime>
+    </File>
+    <File Include="LoginEntry.aspx">
+      <publishTime>01/21/2018 16:57:32</publishTime>
+    </File>
+    <File Include="LOK_MANCH_ACCESS_TO_ENTITLEMENT_OF_THE_MARGINALISED.aspx">
+      <publishTime>08/08/2017 10:02:54</publishTime>
+    </File>
+    <File Include="Main.fla">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="Main.html">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="Main.swf">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="MANTHAN_ORGANISES_CLEANLINESS_CAMPAIGN_IN_PATNA.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="MLogin.Master">
+      <publishTime>05/06/2018 18:00:11</publishTime>
+    </File>
+    <File Include="Modiling.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="Movie_Mirchi.aspx">
+      <publishTime>05/06/2018 18:02:10</publishTime>
+    </File>
+    <File Include="MUSICIANS_FROM_THE_MARGINS.aspx">
+      <publishTime>07/11/2017 23:14:58</publishTime>
+    </File>
+    <File Include="N4NImages.aspx">
+      <publishTime>04/21/2018 13:34:23</publishTime>
+    </File>
+    <File Include="N4NUsers.aspx">
+      <publishTime>05/06/2018 18:00:12</publishTime>
+    </File>
+    <File Include="N4NVideo.aspx">
+      <publishTime>05/28/2018 15:05:07</publishTime>
+    </File>
+    <File Include="N4N_columnist.aspx">
+      <publishTime>05/06/2018 18:02:11</publishTime>
+    </File>
+    <File Include="National.aspx">
+      <publishTime>05/06/2018 18:02:11</publishTime>
+    </File>
+    <File Include="NEPC_CLASSES.aspx">
+      <publishTime>06/11/2015 21:25:57</publishTime>
+    </File>
+    <File Include="News.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="news17/AMB_Tarumitra1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/AMB_Tarumitra2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/AMB_Tarumitra3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ANNUAL_GENERAL_BODY_OF_PJS1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ANNUAL_GENERAL_BODY_OF_PJS2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ANNUAL_GENERAL_BODY_OF_PJS3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ANNUAL_GENERAL_BODY_OF_PJS4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Arrupe_Pedro_01.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Asha200917_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Asha200917_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Ashadeep201705171.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Ashadeep201705172.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Ashadeep201705173.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ASHA_DEEP020217_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ASHA_DEEP020217_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ASHA_DEEP020217_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ASHA_DEEP020217_4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ASHA_DEEP020217_5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ASHA_DEEP020217_6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ASHA_DEEP020217_7.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ASHA_DEEP1508171.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ASHA_DEEP1508172.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ASHA_DEEP1508173.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ASHA_DEEP1508174.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ASHA_DEEP1508175.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ASHA_DEEP1508176.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ASHA_DEEP1508177.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ASHA_DEEP1508178.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ASHA_DEEP1508179.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ASHA_DEEP150817t.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Asia200917_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Asia200917_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Asia200917_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Asia200917_4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Asia200917_5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Asia200917_6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/AThe_Prince_of_Peace.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Atmadarshan10.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Atmadarshan2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Atmadarshan3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Atmadarshan5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Atmadarshan6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Atmadarshan7.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Atmadarshan8.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Atmadarshan9.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Awazei200917_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Awazei200917_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Awazei200917_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BATCH_OF_SKILLING_THE_YOUTH1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BATCH_OF_SKILLING_THE_YOUTH2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BDVS1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BDVS2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BDVS3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Beur_Central_JailT.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Beur_Central_Jailw.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Beur_jail2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Beur_jail2w.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BiharDivas1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BiharDivas2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BiharDivas3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BiharDivas4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BiharDivas5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BiharDivas6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BiharDivas7.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BiharDivas8.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BIHAR_IN_FLOODS1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BIHAR_IN_FLOODS2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BIHAR_IN_FLOODS3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BIHAR_IN_FLOODS4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BIHAR_IN_FLOODS5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BIHAR_IN_FLOODS6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BIHAR_IN_FLOODS7.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BIHAR_IN_FLOODS8.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BIHAR_IN_FLOODS9.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/BIHAR_IN_FLOODSt.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/bob1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/bob1a.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/bob2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Bool_Release_210917.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ChristmasMilan1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ChristmasMilan2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ChristmasMilan3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ChristmasMilan4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/CHRISTMAS_GIFTS.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/CHRISTMAS_WITH_RURAL_CHILDREN1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/CHRISTMAS_WITH_RURAL_CHILDREN2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Church1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Church2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Church3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/CL201705181.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/CL201705182.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/CL201705183.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/CL201705184.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/CL201705185.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/CL201705186.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Cover_Corel15.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DailaiLama1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DailaiLama2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DailaiLama3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DDTA1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DDTA2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DDTA3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DDTA4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DDTAt.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DM17.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DM17T.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Doctors200917_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Doctors200917_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DonateS1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DonateS2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DonateS3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DonateS4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DonateS5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DonateS6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DonateS7.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DonateS8.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/DonateS9.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Edn_Margdbk_cover_pgL.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Edn_Margdbk_cover_pgT.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/EMPOWERING_THROUGH_EDUCATION1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/EMPOWERING_THROUGH_EDUCATION2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/EMPOWERING_THROUGH_EDUCATION3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/EMPOWERING_THROUGH_EDUCATION4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/EMPOWERING_THROUGH_EDUCATION5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/EMPOWERING_THROUGH_EDUCATION6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ENVIRONMENTDAY1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ENVIRONMENTDAY1B.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ENVIRONMENTDAY2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ENVIRONMENTDAY3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ENVIRONMENTDAY4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/EXEMPLARY1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/EXEMPLARY2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/EXEMPLARY3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/EXEMPLARY4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/EXEMPLARY5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/FAIRY_TREE01W.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/FAIRY_TREE02W.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/FAIRY_TREE03W.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/FAIRY_TREE1W.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/FAIRY_TREEM.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/FAIRY_TREEMW.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Feast_Day17_0.jpg">
+      <publishTime>08/08/2017 07:33:24</publishTime>
+    </File>
+    <File Include="news17/Feast_Day17_1.jpg">
+      <publishTime>08/08/2017 07:33:24</publishTime>
+    </File>
+    <File Include="news17/Feast_Day17_2.jpg">
+      <publishTime>08/08/2017 07:33:24</publishTime>
+    </File>
+    <File Include="news17/Feast_Day17_3.jpg">
+      <publishTime>08/08/2017 07:33:24</publishTime>
+    </File>
+    <File Include="news17/Feast_Day17_T.JPG">
+      <publishTime>08/08/2017 07:33:24</publishTime>
+    </File>
+    <File Include="news17/Flood2.jpg">
+      <publishTime>10/02/2017 20:36:06</publishTime>
+    </File>
+    <File Include="news17/Flood_Relief.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Fr_Kenealy1.jpg">
+      <publishTime>07/05/2017 19:42:08</publishTime>
+    </File>
+    <File Include="news17/Fr_Kenealy2.jpg">
+      <publishTime>07/05/2017 19:42:10</publishTime>
+    </File>
+    <File Include="news17/Fr_Kenealy3.jpg">
+      <publishTime>07/05/2017 19:42:10</publishTime>
+    </File>
+    <File Include="news17/Fr_Kenealy4.jpg">
+      <publishTime>07/05/2017 19:42:10</publishTime>
+    </File>
+    <File Include="news17/Fr_Kenealy5.jpg">
+      <publishTime>07/05/2017 19:42:10</publishTime>
+    </File>
+    <File Include="news17/Fr_Kenealy6.jpg">
+      <publishTime>07/05/2017 19:42:10</publishTime>
+    </File>
+    <File Include="news17/Fr_Kenealy7.jpg">
+      <publishTime>07/05/2017 19:42:10</publishTime>
+    </File>
+    <File Include="news17/Fr_Kenealy8.jpg">
+      <publishTime>07/05/2017 19:42:10</publishTime>
+    </File>
+    <File Include="news17/gandhiquote.jpg">
+      <publishTime>10/02/2017 20:26:16</publishTime>
+    </File>
+    <File Include="news17/GC01.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC02.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC03.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC04.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC05.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC06.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC07.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC08.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC09.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC10.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC11.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC12.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC13.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC14.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC15.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC16.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC17.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC18.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC19.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC20.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GC21.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls10.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls11.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls12.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls13.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls14.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls15.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls16.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls17.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls18.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls19.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls20.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls21.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls22.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls23.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls24.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls25.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls26.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls27.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls28.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls29.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls30.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls31.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls32.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls33.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls34.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls35.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls7.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls8.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gcpearls9.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gc_pearls_15_21.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gc_pearls_15_22.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gc_pearls_18.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gc_pearls_4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/gc_pearls_9.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/GrottoW.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Hindi_Dalit_SahityaT.jpg">
+      <publishTime>08/08/2017 07:33:24</publishTime>
+    </File>
+    <File Include="news17/Hindi_Dalit_Sahityaw.jpg">
+      <publishTime>08/08/2017 10:07:04</publishTime>
+    </File>
+    <File Include="news17/Ignatius.jpg">
+      <publishTime>11/09/2017 20:45:24</publishTime>
+    </File>
+    <File Include="news17/ignatiusloyola.jpg">
+      <publishTime>11/09/2017 20:45:26</publishTime>
+    </File>
+    <File Include="news17/India_Group_photoW.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/India_Group_photoWT.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Jazba1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Jazba2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Jazba3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/JCS_1497W.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/JCS_1520W.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/JEPASA.jpg">
+      <publishTime>11/10/2017 07:29:46</publishTime>
+    </File>
+    <File Include="news17/Jesuitsmeet1117.jpg">
+      <publishTime>11/04/2017 20:38:10</publishTime>
+    </File>
+    <File Include="news17/JESUITS_ENHANCING_QUALITY_EDU_OF_BIHAR1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/JESUITS_ENHANCING_QUALITY_EDU_OF_BIHAR2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/JESUITS_ENHANCING_QUALITY_EDU_OF_BIHAR3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/JESUITS_IN SOUTH_ASIA1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/JESUITS_IN SOUTH_ASIA2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/JESUITS_IN SOUTH_ASIA3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/JESUITS_IN SOUTH_ASIA4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/JESUITS_IN-SOUTH_ASIAt.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/kenealy1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/kenealy2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/kenealy3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/kenealy4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/kenealy5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/kenealy6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/kenealyT.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Kurji20171w.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Kurji20171wB.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Kurji20172w.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Kurji20173w.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/LEAF1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/LEAF2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/LEAF3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/LEAF4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/LEAF5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Lokmanch1.jpg">
+      <publishTime>08/08/2017 07:33:24</publishTime>
+    </File>
+    <File Include="news17/Lokmanch3.jpg">
+      <publishTime>08/08/2017 07:33:24</publishTime>
+    </File>
+    <File Include="news17/Lokmanch4.jpg">
+      <publishTime>08/08/2017 07:33:24</publishTime>
+    </File>
+    <File Include="news17/LokmanchT.jpg">
+      <publishTime>08/08/2017 07:33:24</publishTime>
+    </File>
+    <File Include="news17/MANOSUNIDAS1.jpg">
+      <publishTime>11/04/2017 20:38:10</publishTime>
+    </File>
+    <File Include="news17/MANOSUNIDAS2.jpg">
+      <publishTime>11/04/2017 20:38:10</publishTime>
+    </File>
+    <File Include="news17/MANOSUNIDAS3.jpg">
+      <publishTime>11/04/2017 20:38:10</publishTime>
+    </File>
+    <File Include="news17/MANOSUNIDAS4.jpg">
+      <publishTime>11/04/2017 20:38:10</publishTime>
+    </File>
+    <File Include="news17/MANOSUNIDAS5.jpg">
+      <publishTime>11/04/2017 20:38:10</publishTime>
+    </File>
+    <File Include="news17/MANOS_Visit003.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/MANOS_Visit004.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/MANOS_Visit005.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/MANOS_Visit01.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/MANOS_Visit02.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/MANOS_Visit06.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/MANOS_Visit07.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Merry_Christmas.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/MUSICIANS.jpg">
+      <publishTime>07/11/2017 22:47:22</publishTime>
+    </File>
+    <File Include="news17/organic11july0.jpg">
+      <publishTime>07/12/2017 20:52:54</publishTime>
+    </File>
+    <File Include="news17/organic11july1.jpg">
+      <publishTime>07/12/2017 20:52:54</publishTime>
+    </File>
+    <File Include="news17/organic11july10.jpg">
+      <publishTime>07/12/2017 20:52:54</publishTime>
+    </File>
+    <File Include="news17/organic11july2.jpg">
+      <publishTime>07/12/2017 20:52:54</publishTime>
+    </File>
+    <File Include="news17/organic11july3.jpg">
+      <publishTime>07/12/2017 20:52:54</publishTime>
+    </File>
+    <File Include="news17/organic11july4.jpg">
+      <publishTime>07/12/2017 20:52:54</publishTime>
+    </File>
+    <File Include="news17/organic11july5.jpg">
+      <publishTime>07/12/2017 20:52:54</publishTime>
+    </File>
+    <File Include="news17/organic11july6.jpg">
+      <publishTime>07/12/2017 20:52:54</publishTime>
+    </File>
+    <File Include="news17/organic11july7.jpg">
+      <publishTime>07/12/2017 20:52:54</publishTime>
+    </File>
+    <File Include="news17/organic11july8.jpg">
+      <publishTime>07/12/2017 20:52:54</publishTime>
+    </File>
+    <File Include="news17/organic11july9.jpg">
+      <publishTime>07/12/2017 20:52:54</publishTime>
+    </File>
+    <File Include="news17/organic11julyt.jpg">
+      <publishTime>07/12/2017 20:52:54</publishTime>
+    </File>
+    <File Include="news17/PB007.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PB01.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PB02.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PB03.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PB04.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PB05.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PB06.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PB08.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PD170.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PD171.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PD172.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PD173.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PD174.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PD175.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PD17W.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PJS2408_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PJS2408_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PJS2408_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PJS2408_4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/PJS2408_t.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ProvincialUSA0.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ProvincialUSA1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ProvincialUSA2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ProvincialUSA3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ProvincialUSA4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ProvincialUSA5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ProvincialUSA6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/ProvincialUSAt.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Prov_Days1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Prov_Days1B.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Prov_Days2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Prov_Days3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Prov_Days4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Puthen5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Rakhi1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Rakhi10.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Rakhi11.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Rakhi12.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Rakhi13.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Rakhi2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Rakhi3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Rakhi4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Rakhi5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Rakhi6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Rakhi7.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Rakhi8.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Rakhi9.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Rakhit.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/RB21022017_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/RB21022017_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/RB21022017_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Rev_Fr_John_Kenealy.jpg">
+      <publishTime>07/05/2017 19:42:10</publishTime>
+    </File>
+    <File Include="news17/Robert_Athickal.jpg">
+      <publishTime>07/05/2017 19:42:10</publishTime>
+    </File>
+    <File Include="news17/Serrano1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Serrano10.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Serrano11.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Serrano12.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Serrano2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Serrano3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Serrano4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Serrano5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Serrano6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Serrano7.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Serrano9.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Serranot.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/SOCIAL_INCLUSION1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/SOCIAL_INCLUSION1B.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/SOCIAL_INCLUSION2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/SOCIAL_INCLUSION3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/SOCIAL_INCLUSION4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/SOCIAL_INCLUSION5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/SOCIAL_INCLUSION6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/SOUTH_ASIAN_CONSULTATION1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/SOUTH_ASIAN_CONSULTATION2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/SOUTH_ASIAN_CONSULTATION3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/SOUTH_ASIAN_CONSULTATION4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/StMics.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/stx11171.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/stx11172.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/stx11173.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/stx11174.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/stx11175.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/stx11176.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/stx1117t.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/STXCA01.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/STXCA02.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/STXCA03.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/STX_11317_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/STX_11317_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/STX_11317_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/STX_11317_4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/STX_11317_5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TAMB_Tarumitra.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TANNUAL_GENERAL_BODY_OF_PJS.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TArrupe_Pedro_01.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra10.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra300417_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra300417_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra300417_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra300417_4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra31011.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra31012.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra31013.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra31014.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra31015.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra7.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra8.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitra9.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitrafest1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitrafest2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitrafest3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitrafest4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitrafest5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Tarumitrat.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TAsha200917.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TAshadeep201705171.jpg">
+      <publishTime>07/09/2017 23:33:46</publishTime>
+    </File>
+    <File Include="news17/TAsia200917.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TAtmadarshan2.jpg">
+      <publishTime>07/09/2017 23:33:46</publishTime>
+    </File>
+    <File Include="news17/TAwazei200917.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TBATCH_OF_SKILLING_THE_YOUTH.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/tbob1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/tbob2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TBool_Release_210917.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TBorn_Free_and_Equal_By_Cedric_Prakash.jpg">
+      <publishTime>12/12/2017 20:02:10</publishTime>
+    </File>
+    <File Include="news17/tCedric.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TChristmasMilan.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TCHRISTMAS_GIFTS.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TCHRISTMAS_WITH_RURAL_CHILDREN.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TCL201705181.jpg">
+      <publishTime>07/09/2017 23:33:46</publishTime>
+    </File>
+    <File Include="news17/TCover_Corel15.jpg">
+      <publishTime>07/09/2017 23:33:46</publishTime>
+    </File>
+    <File Include="news17/TDoctors200917.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TEdn_Margdbk_cover_pgT.jpg">
+      <publishTime>07/09/2017 23:33:46</publishTime>
+    </File>
+    <File Include="news17/TEMPOWERING_THROUGH_EDUCATION3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TENVIRONMENTDAY1.jpg">
+      <publishTime>07/09/2017 23:33:46</publishTime>
+    </File>
+    <File Include="news17/TFr_Kenealy1.jpg">
+      <publishTime>07/09/2017 23:33:46</publishTime>
+    </File>
+    <File Include="news17/tgandhiquote.jpg">
+      <publishTime>10/02/2017 20:26:16</publishTime>
+    </File>
+    <File Include="news17/The_Prince_of_Peace.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TIgnatius.jpg">
+      <publishTime>11/09/2017 20:45:26</publishTime>
+    </File>
+    <File Include="news17/Tignatiusloyola.jpg">
+      <publishTime>11/09/2017 20:45:26</publishTime>
+    </File>
+    <File Include="news17/TJEPASA.jpg">
+      <publishTime>11/10/2017 07:29:46</publishTime>
+    </File>
+    <File Include="news17/TJesuitsmeet1117.jpg">
+      <publishTime>11/04/2017 20:03:54</publishTime>
+    </File>
+    <File Include="news17/TJESUITS_ENHANCING_QUALITY_EDU_OF_BIHAR.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TKurji20171w.jpg">
+      <publishTime>07/09/2017 23:33:46</publishTime>
+    </File>
+    <File Include="news17/TMANOSUNIDAS5.jpg">
+      <publishTime>11/04/2017 20:03:54</publishTime>
+    </File>
+    <File Include="news17/TMUSICIANS.jpg">
+      <publishTime>07/11/2017 22:47:22</publishTime>
+    </File>
+    <File Include="news17/TProv_Days1.jpg">
+      <publishTime>07/09/2017 23:33:46</publishTime>
+    </File>
+    <File Include="news17/Training_1805171.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Training_1805172.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/Training_1805173.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TRobert_Athickal.jpg">
+      <publishTime>07/09/2017 23:33:46</publishTime>
+    </File>
+    <File Include="news17/TSOCIAL_INCLUSION1.jpg">
+      <publishTime>07/09/2017 23:33:46</publishTime>
+    </File>
+    <File Include="news17/TSOUTH_ASIAN_CONSULTATION.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TTarumitra300417_1.jpg">
+      <publishTime>07/09/2017 23:33:46</publishTime>
+    </File>
+    <File Include="news17/TThe_Prince_of_Peace.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/TTraining_1805171.jpg">
+      <publishTime>07/09/2017 23:33:46</publishTime>
+    </File>
+    <File Include="news17/TVernon2.jpg">
+      <publishTime>11/04/2017 20:03:54</publishTime>
+    </File>
+    <File Include="news17/TXISR0.jpg">
+      <publishTime>07/09/2017 23:33:46</publishTime>
+    </File>
+    <File Include="news17/TYES_4516.jpg">
+      <publishTime>07/09/2017 23:42:28</publishTime>
+    </File>
+    <File Include="news17/TYTBH0911172.jpg">
+      <publishTime>11/09/2017 20:45:26</publishTime>
+    </File>
+    <File Include="news17/Vernon1.jpg">
+      <publishTime>11/04/2017 20:38:10</publishTime>
+    </File>
+    <File Include="news17/Vernon2.jpg">
+      <publishTime>11/04/2017 20:38:10</publishTime>
+    </File>
+    <File Include="news17/WDG17_1W.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/WDG17_2W.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/WDG17_3D.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/WDG17_3W.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/XISR0.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/XISR1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/XISR2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/XISR3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/XISR4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/XISR5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="news17/YES_4323.jpg">
+      <publishTime>07/01/2017 23:00:04</publishTime>
+    </File>
+    <File Include="news17/YES_4324.jpg">
+      <publishTime>07/01/2017 23:00:04</publishTime>
+    </File>
+    <File Include="news17/YES_4516.jpg">
+      <publishTime>07/01/2017 23:00:04</publishTime>
+    </File>
+    <File Include="news17/YTBH0911171.jpg">
+      <publishTime>11/09/2017 20:45:26</publishTime>
+    </File>
+    <File Include="news17/YTBH0911172.jpg">
+      <publishTime>11/09/2017 20:45:26</publishTime>
+    </File>
+    <File Include="News5.aspx">
+      <publishTime>06/11/2015 21:25:56</publishTime>
+    </File>
+    <File Include="News6.aspx">
+      <publishTime>06/11/2015 21:25:56</publishTime>
+    </File>
+    <File Include="NewsDetails.aspx">
+      <publishTime>05/12/2018 14:50:13</publishTime>
+    </File>
+    <File Include="NewsDetailsApproval.aspx">
+      <publishTime>05/24/2018 06:19:54</publishTime>
+    </File>
+    <File Include="newsim/ray1.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/ray2.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/ray3.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/ray4.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/ray5.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/ray6.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/ray7.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/rbW.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/s2212131.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/s2212132.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/s2212133.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/s2212134.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/s2212135.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/s2212136.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/s221213t.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/st2611al1.JPG">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/st2611al1thump.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/st2611al2.JPG">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/st2611al3.JPG">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/st2611al4.JPG">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/st2611thump.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/st2611tm1.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/st2611tm2.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/st2611tm3.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/st2611tm4.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/st2611tm5.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/stxc2909_1.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/stxc2909_2.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/stxc2909_3.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/stxc2909_4.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/stxc2909_b.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/STXCr2v1.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/STXCr2v2.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/STXCr2v3.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/STXCr2v4.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/STXCr2v5.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/STXCr2vthumb.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/STXCtaruk1.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/STXCtaruk2.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/STXCtaruk3.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/STXCtrarukthumb.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxch1612131.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxch1612132.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxch1612133.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxch1612134.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxch1612135.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxch1612136.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxch1612136t.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxcnm1.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxcnm2.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxcnm3.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxcnm4.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxcnm5.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxcnmthump.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxcp1.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxcp2.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxcp3.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxcp4.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxcp5.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxcp6.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxcp7.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxcp8.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/sxcthump.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/Talent_promotion1.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/Talent_promotion2.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/whd1.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/whd2.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/whd3.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/whd4.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/whd5.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/whd6.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/whd7.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/whd8.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsim/whd9.jpg">
+      <publishTime>03/02/2015 18:39:30</publishTime>
+    </File>
+    <File Include="newsImages/ASWINI-CHUBEY-SON-ANTICIPATORY-BAIL-NOT-GRANTED-SURRENDER-AT-PATNA-LATE-NIGHT1.jpg">
+      <publishTime>04/12/2018 14:41:30</publishTime>
+    </File>
+    <File Include="newsImages/ASWINI-CHUBEY-SON-ANTICIPATORY-BAIL-NOT-GRANTED-SURRENDER-AT-PATNA-LATE-NIGHT2.jpg">
+      <publishTime>04/12/2018 14:41:30</publishTime>
+    </File>
+    <File Include="newsImages/ASWINI-CHUBEY-SON-ANTICIPATORY-BAIL-NOT-GRANTED-SURRENDER-AT-PATNA-LATE-NIGHT3.jpg">
+      <publishTime>04/12/2018 14:41:30</publishTime>
+    </File>
+    <File Include="newsImages/ASWINI-CHUBEY-SON-ANTICIPATORY-BAIL-NOT-GRANTED-SURRENDER-AT-PATNA-LATE-NIGHT4.jpg">
+      <publishTime>04/12/2018 14:41:31</publishTime>
+    </File>
+    <File Include="newsImages/ASWINI-CHUBEY-SON-ANTICIPATORY-BAIL-NOT-GRANTED-SURRENDER-AT-PATNA-LATE-NIGHT5.jpg">
+      <publishTime>04/12/2018 14:41:31</publishTime>
+    </File>
+    <File Include="newsImages/ASWINI-CHUBEY-SON-ANTICIPATORY-BAIL-NOT-GRANTED-SURRENDER-AT-PATNA-LATE-NIGHT6.jpg">
+      <publishTime>04/12/2018 14:41:31</publishTime>
+    </File>
+    <File Include="newsImages/INTER-TOPPER-SCAM-BACHHA-RAI-4153-CRORES-PROPERY-SEIZED1.jpg">
+      <publishTime>04/05/2018 23:12:50</publishTime>
+    </File>
+    <File Include="newsImages/MANGALWAR-KO-HANUMANJI-KI-PUJA-HAI-PARAM-KALYANKARI1.jpg">
+      <publishTime>04/02/2018 21:33:48</publishTime>
+    </File>
+    <File Include="newsImages/MISA-BHARTI-ACTIVE-IN-POLITICS-DISCUSS-WITH-MAMTA-BANARJEE-ON-FEDERAL-FRONT1.jpg">
+      <publishTime>04/02/2018 21:34:13</publishTime>
+    </File>
+    <File Include="newsImages/News4Nation_Default.jpg">
+      <publishTime>04/02/2018 11:38:10</publishTime>
+    </File>
+    <File Include="newsImages/NITISH-IS-A-TIMID-CM-CAN-NOT-SPEAK-ANYTHING-AGAINST-GIRIRAJ-SINGH-RADIANT1.jpg">
+      <publishTime>05/01/2018 13:09:42</publishTime>
+    </File>
+    <File Include="newsImages/NITISH-IS-A-TIMID-CM-CAN-NOT-SPEAK-ANYTHING-AGAINST-GIRIRAJ-SINGH-RADIANT2.jpg">
+      <publishTime>05/01/2018 13:09:42</publishTime>
+    </File>
+    <File Include="newsImages/NITISH-IS-A-TIMID-CM-CAN-NOT-SPEAK-ANYTHING-AGAINST-GIRIRAJ-SINGH-RADIANT3.jpg">
+      <publishTime>04/15/2018 15:29:35</publishTime>
+    </File>
+    <File Include="newsImages/NIYOJIT-TEACHER-GET-40PERCENT-MORE-SALARY-SC1.jpg">
+      <publishTime>04/02/2018 21:34:33</publishTime>
+    </File>
+    <File Include="newsImages/PROBLEM-ON-ALLIANCE-BJP-LEADER-HAVE-TO-SURRENDER-OR-ARREST-JDU1.jpg">
+      <publishTime>04/02/2018 21:34:55</publishTime>
+    </File>
+    <File Include="NewsType.aspx">
+      <publishTime>05/06/2018 18:00:12</publishTime>
+    </File>
+    <File Include="NewsUploading.aspx">
+      <publishTime>06/02/2018 08:21:57</publishTime>
+    </File>
+    <File Include="NewsUploadingDetails.aspx">
+      <publishTime>06/02/2018 08:19:39</publishTime>
+    </File>
+    <File Include="news_hindi_debates.aspx">
+      <publishTime>06/11/2015 21:25:56</publishTime>
+    </File>
+    <File Include="News_Makers.aspx">
+      <publishTime>07/04/2017 22:54:50</publishTime>
+    </File>
+    <File Include="news_raymond_book.aspx">
+      <publishTime>06/11/2015 21:25:56</publishTime>
+    </File>
+    <File Include="news_st_091201.aspx">
+      <publishTime>06/11/2015 21:25:56</publishTime>
+    </File>
+    <File Include="news_st_091202.aspx">
+      <publishTime>06/11/2015 21:25:56</publishTime>
+    </File>
+    <File Include="news_st_2611.aspx">
+      <publishTime>06/11/2015 21:25:56</publishTime>
+    </File>
+    <File Include="news_st_2611a.aspx">
+      <publishTime>06/11/2015 21:25:56</publishTime>
+    </File>
+    <File Include="news_sxch161213.aspx">
+      <publishTime>06/11/2015 21:25:56</publishTime>
+    </File>
+    <File Include="news_sxch221213.aspx">
+      <publishTime>06/11/2015 21:25:56</publishTime>
+    </File>
+    <File Include="Noticetext.xml">
+      <publishTime>03/05/2013 12:42:48</publishTime>
+    </File>
+    <File Include="NTalent_promotion.aspx">
+      <publishTime>06/11/2015 21:25:56</publishTime>
+    </File>
+    <File Include="ORGANIC_RICE_PLANTATION_FESTIVAL.aspx">
+      <publishTime>07/12/2017 21:10:50</publishTime>
+    </File>
+    <File Include="OurAimsObjectives.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="OurEmblem.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="OurMission.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="OurPriorities.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="OurVision.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="Pagewise_Visit_Report.aspx">
+      <publishTime>06/02/2018 08:17:07</publishTime>
+    </File>
+    <File Include="Partners.aspx">
+      <publishTime>07/06/2017 08:17:10</publishTime>
+    </File>
+    <File Include="PARTNERS_IN_COMMITMENT_TO_THE_POOR.aspx">
+      <publishTime>11/04/2017 20:52:46</publishTime>
+    </File>
+    <File Include="PastoralMinistry.Master">
+      <publishTime>07/06/2017 08:16:52</publishTime>
+    </File>
+    <File Include="PastoralMinistryD.aspx">
+      <publishTime>07/04/2017 23:35:30</publishTime>
+    </File>
+    <File Include="PastoralMinistryM.aspx">
+      <publishTime>07/04/2017 23:35:30</publishTime>
+    </File>
+    <File Include="PATNA_JESUITS_IN_PRISON_MINISTRY.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PATNA_JESUITS_REACH_OUT_TO_THE_FLOOD_VICTIMS_OF_CHAMPARAN.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PATNA_JESUIT_PROVINCE_DAYS_ON_GC_36.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="PATNA_MOURN_DEATH_OF_JESUIT_SPIRITUAL_HEALER.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Patna_Provincial_Visits_Mid_West_Province_USA.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/Admission_Notice.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/Adm_2014_BA.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/Adm_2014_BBA.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/Adm_2014_BBE.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/Adm_2014_BCA.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/Adm_2014_BComP.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/Adm_2014_BMC.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/Affiliation_Letter.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/AKU_BBA_2_TE2014.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/AKU_BBA_4_TE2014.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/AKU_BCA_2_TE2014.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/AKU_BCA_4_TE2014.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/AKU_BCom_2_TE2014.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/AKU_Prospectus.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/Annual_Calendar_2014_15.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/Application_Form_AKU.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/Application_Form_MU.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/App_Form_2014_AKU.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/App_Form_2014_BA.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/AT_BA_Part_I.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/AT_BA_Part_II.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/AT_BA_Part_III.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/AT_BBA_Part_I.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/AT_BBA_Part_II.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/AT_BBA_Part_III.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/AT_BBE_III_Sem.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/AT_BBE_I_Sem.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/AT_BCA_Part_I.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/AT_BCA_Part_II.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/AT_BCA_Part_III.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/AT_BCom_Part_I.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/AT_BCom_Part_III.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/AT_BCom_Prof_I.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/AT_BCom_Prof_II.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/AT_BCom_Prof_III.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/AT_BMC_III_Sem.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/AT_BMC_I_Sem.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/BAIII2014.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/BA_App_Form.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/BA_Year_I.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/BA_Year_II.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/BBA_III_Sem_VI.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/BBA_II_Sem_IV.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/BBA_I_Sem_II.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/BBE II_Sem_IV.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/BBE I_Sem_II.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/BCA_III_Sem_VI.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/BCA_II_Sem_IV.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/BCA_I_Sem_II.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/BCM_Year_I.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/BComIII2014.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/BCOMP_Syllabus.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/BCom_App_Form.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/BCom_P_III_Sem_VI.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/BCom_P_II_Sem_IV.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/BCom_P_I_Sem_II.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/BMC II_Sem_IV.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/BMC I_Sem_II.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/Bookmark.pdf">
+      <publishTime>03/05/2015 12:25:38</publishTime>
+    </File>
+    <File Include="PDFR/Born_Free_and_Equal_By_Cedric_Prakash.pdf">
+      <publishTime>12/12/2017 20:02:28</publishTime>
+    </File>
+    <File Include="PDFR/Christmas_Milan_2017.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/CLASSES_FOR_Part_I.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/Field_report_West_champaran09092017.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/Magadh_Prospectus.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/NATIONAL_SEMINAR_2015.pdf">
+      <publishTime>03/12/2015 20:37:01</publishTime>
+    </File>
+    <File Include="PDFR/Open_Career_Fair2016.pdf">
+      <publishTime>02/08/2016 18:51:31</publishTime>
+    </File>
+    <File Include="PDFR/Patna_jesuit_Intervention.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/PR130813.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/PR140813.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/PRE040913.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/PRE070813.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/PRE220813.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/PRE280813.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/PRH220813.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/PRH280813.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/Professional_App_Form.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/Re_Opening_Notice.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/ST_Xaier_College_Patna_Prospectus.pdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PDFR/ST_Xaier_College_Patna_Prospectus_2014_2015.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/SXC_Seminar_Invite_2015.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TTBA_13_Year_I.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TTBA_13_Year_II.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TTBA_13_Year_III.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TTBBA_13_Sem_I.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TTBBA_13_Sem_III.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TTBCA_13_Sem_I.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TTBCA_13_Sem_III.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TTBCom_13_Year_I.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TTBCom_13_Year_II.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TTBCom_13_Year_III.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TTBCom_P_13_Sem_I.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TT_BA_Part_I.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TT_BA_Part_II.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TT_BA_Part_III.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TT_BBA_Part_I.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TT_BBA_Part_II.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TT_BBA_Part_III.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TT_BBE_I_Sem.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TT_BCA_Part_I.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TT_BCA_Part_II.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TT_BCA_Part_III.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TT_BCom _Prof_ 3_Sem.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TT_BCom _Prof_ Ist_Sem_Unit_1.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TT_BCom _Prof_ Ist_Sem_Unit_2.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TT_BCom_Part_II.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TT_BCom_Part_III.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/TT_BMC_I_Sem.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/T_220813.JPG">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/Univ_Exam_BBA_3rdSem.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/Univ_Exam_BCA_3rdSem.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/Univ_Exam_BCOM_IstSem.pdf">
+      <publishTime>03/02/2015 18:39:12</publishTime>
+    </File>
+    <File Include="PDFR/Why_a_16th_century_saint_is_a_model_of_modern_management.pdf">
+      <publishTime>11/09/2017 20:44:50</publishTime>
+    </File>
+    <File Include="PDO.Master">
+      <publishTime>07/06/2017 08:16:52</publishTime>
+    </File>
+    <File Include="PgwSlider.html">
+      <publishTime>06/05/2015 07:51:12</publishTime>
+    </File>
+    <File Include="PgwSlider/.gitattributes">
+      <publishTime>06/05/2015 07:41:54</publishTime>
+    </File>
+    <File Include="PgwSlider/.gitignore">
+      <publishTime>06/05/2015 07:41:54</publishTime>
+    </File>
+    <File Include="PgwSlider/jquery.min.js">
+      <publishTime>06/05/2015 07:41:56</publishTime>
+    </File>
+    <File Include="PgwSlider/LICENSE.md">
+      <publishTime>06/05/2015 07:41:56</publishTime>
+    </File>
+    <File Include="PgwSlider/package.json">
+      <publishTime>06/05/2015 07:41:56</publishTime>
+    </File>
+    <File Include="PgwSlider/pgwslider.css">
+      <publishTime>05/06/2018 18:00:12</publishTime>
+    </File>
+    <File Include="PgwSlider/pgwslider.jquery.json">
+      <publishTime>06/05/2015 07:41:56</publishTime>
+    </File>
+    <File Include="PgwSlider/pgwslider.js">
+      <publishTime>06/05/2015 07:41:56</publishTime>
+    </File>
+    <File Include="PgwSlider/pgwslider.min.css">
+      <publishTime>06/25/2017 14:21:12</publishTime>
+    </File>
+    <File Include="PgwSlider/pgwslider.min.js">
+      <publishTime>06/05/2015 07:41:56</publishTime>
+    </File>
+    <File Include="PgwSlider/README.md">
+      <publishTime>06/05/2015 07:41:56</publishTime>
+    </File>
+    <File Include="pgwslideshow.html">
+      <publishTime>06/05/2015 07:42:18</publishTime>
+    </File>
+    <File Include="pgwslideshow/.gitattributes">
+      <publishTime>06/05/2015 07:42:08</publishTime>
+    </File>
+    <File Include="pgwslideshow/.gitignore">
+      <publishTime>06/05/2015 07:42:08</publishTime>
+    </File>
+    <File Include="pgwslideshow/jquery.min.js">
+      <publishTime>06/05/2015 07:42:08</publishTime>
+    </File>
+    <File Include="pgwslideshow/LICENSE.md">
+      <publishTime>06/05/2015 07:42:08</publishTime>
+    </File>
+    <File Include="pgwslideshow/package.json">
+      <publishTime>06/05/2015 07:42:08</publishTime>
+    </File>
+    <File Include="pgwslideshow/pgwslideshow.css">
+      <publishTime>05/06/2018 18:00:12</publishTime>
+    </File>
+    <File Include="pgwslideshow/pgwslideshow.jquery.json">
+      <publishTime>06/05/2015 07:42:08</publishTime>
+    </File>
+    <File Include="pgwslideshow/pgwslideshow.js">
+      <publishTime>06/05/2015 07:42:08</publishTime>
+    </File>
+    <File Include="pgwslideshow/pgwslideshow.min.css">
+      <publishTime>05/06/2018 18:00:12</publishTime>
+    </File>
+    <File Include="pgwslideshow/pgwslideshow.min.js">
+      <publishTime>06/05/2015 07:42:08</publishTime>
+    </File>
+    <File Include="pgwslideshow/pgwslideshow_light.css">
+      <publishTime>05/06/2018 18:00:12</publishTime>
+    </File>
+    <File Include="pgwslideshow/pgwslideshow_light.min.css">
+      <publishTime>05/06/2018 18:00:13</publishTime>
+    </File>
+    <File Include="pgwslideshow/README.md">
+      <publishTime>06/05/2015 07:42:08</publishTime>
+    </File>
+    <File Include="PJS_ENHANCING_CAPACITIES_OF_GOVT_SCHOOL_TEACHERS_OF_BIHAR.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="PJS_PRABHAT_SAKRI_AWARDED_FOR_EXEMPLORARY_WORK_IN_LIVELIHOOD.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="plugins/jquery.easing.1.3.js">
+      <publishTime>08/31/2013 23:29:46</publishTime>
+    </File>
+    <File Include="plugins/jquery.fitvids.js">
+      <publishTime>08/31/2013 23:29:46</publishTime>
+    </File>
+    <File Include="Politics.aspx">
+      <publishTime>05/06/2018 18:02:11</publishTime>
+    </File>
+    <File Include="PORTFILIO.swf">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="Portfolio.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Prayer.aspx">
+      <publishTime>07/06/2017 08:16:52</publishTime>
+    </File>
+    <File Include="Profile.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="Property.aspx">
+      <publishTime>05/06/2018 18:02:11</publishTime>
+    </File>
+    <File Include="ProvinceCommissions.aspx">
+      <publishTime>07/04/2017 22:53:50</publishTime>
+    </File>
+    <File Include="ProvinceConsultors.aspx">
+      <publishTime>07/04/2017 22:53:50</publishTime>
+    </File>
+    <File Include="ProvinceOfficials.aspx">
+      <publishTime>07/04/2017 22:53:50</publishTime>
+    </File>
+    <File Include="ProvincialCuria.aspx">
+      <publishTime>07/04/2017 22:53:50</publishTime>
+    </File>
+    <File Include="Provincials.aspx">
+      <publishTime>07/04/2017 22:53:50</publishTime>
+    </File>
+    <File Include="RAKHI_CELEBRATION_2017.aspx">
+      <publishTime>08/08/2017 09:55:04</publishTime>
+    </File>
+    <File Include="raymond.swf">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="Renewal.Master">
+      <publishTime>07/06/2017 08:16:52</publishTime>
+    </File>
+    <File Include="renewal.swf">
+      <publishTime>07/04/2017 23:36:08</publishTime>
+    </File>
+    <File Include="RenewalD.aspx">
+      <publishTime>07/04/2017 23:36:08</publishTime>
+    </File>
+    <File Include="RenewalM.aspx">
+      <publishTime>07/04/2017 23:36:08</publishTime>
+    </File>
+    <File Include="Retreat.aspx">
+      <publishTime>07/06/2017 08:16:52</publishTime>
+    </File>
+    <File Include="ror.xml">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="s.swf">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="Sadbhavana_Samaagam_at_Xavier_Colleges.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="SAdmission.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="SAlumini.aspx">
+      <publishTime>03/09/2015 18:10:44</publishTime>
+    </File>
+    <File Include="SAlumni.aspx">
+      <publishTime>06/12/2015 08:40:16</publishTime>
+    </File>
+    <File Include="SAttendance.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="SAttendence.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="SBihar.aspx">
+      <publishTime>05/24/2018 17:11:26</publishTime>
+    </File>
+    <File Include="SCgs.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="SCHOLASTICS.Master">
+      <publishTime>07/06/2017 08:16:54</publishTime>
+    </File>
+    <File Include="Scripts/ContentScroller.js">
+      <publishTime>01/02/2018 20:34:14</publishTime>
+    </File>
+    <File Include="Scripts/gistfile1.js">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="SDownload.aspx">
+      <publishTime>10/11/2015 08:36:45</publishTime>
+    </File>
+    <File Include="Seminar.aspx">
+      <publishTime>06/12/2015 08:10:18</publishTime>
+    </File>
+    <File Include="SExamination.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="si2013/Adm_Bela.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Adm_Pankaj.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Adm_Piyush.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Adm_Rekha.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Adm_Vikash.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/BBA_Ashok.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/BBA_Joel.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/BBA_Samir.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/BCA_Prashant.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/BCA_Rajesh.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/BCA_Rakesh.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/BCA_Shashi.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/BCA_Supriya.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Br_Joseph.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="si2013/Commerce_Akriti.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Commerce_Priyanka.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Commerce_Sushil.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Economics_Animesh.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Economics_Bidya.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Economics_Kalpana.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Economics_Sunil.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/English_ Shilpi.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/English_Anurag.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/English_Marie.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/English_Shikha.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Fr_Joseph.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="si2013/Fr_Raymond.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="si2013/Fr_Sushil.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="si2013/Fr_TNishaant.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="si2013/Hist_Jasmin.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Hist_Sanjay.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Hist_Sweta.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/J_Br_Joseph.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/J_Fr_Joseph.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/J_Fr_Raymond.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/J_Fr_Sushil.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/J_Fr_TNishaant.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Main_Bhagwan.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Main_Mariyam.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Main_Nelson.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Main_Raju.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Main_Shakeel.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Pol_Ratish.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/Soc_Mudita.JPG">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2013/St_Francis.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="si2014/AJ.jpg">
+      <publishTime>06/12/2015 08:16:18</publishTime>
+    </File>
+    <File Include="si2014/AK.jpg">
+      <publishTime>06/12/2015 08:16:19</publishTime>
+    </File>
+    <File Include="si2014/AlexanderNatal.jpg">
+      <publishTime>06/12/2015 08:16:20</publishTime>
+    </File>
+    <File Include="si2014/AM.jpg">
+      <publishTime>06/12/2015 08:16:20</publishTime>
+    </File>
+    <File Include="si2014/AN.jpg">
+      <publishTime>06/12/2015 08:16:21</publishTime>
+    </File>
+    <File Include="si2014/Anamika.jpg">
+      <publishTime>06/12/2015 08:16:22</publishTime>
+    </File>
+    <File Include="si2014/ANIMESH.jpg">
+      <publishTime>06/12/2015 08:16:22</publishTime>
+    </File>
+    <File Include="si2014/APJ.jpg">
+      <publishTime>06/12/2015 08:16:23</publishTime>
+    </File>
+    <File Include="si2014/ArchanaJha.jpg">
+      <publishTime>06/12/2015 08:16:24</publishTime>
+    </File>
+    <File Include="si2014/ArfaTabassum.jpg">
+      <publishTime>06/12/2015 08:16:24</publishTime>
+    </File>
+    <File Include="si2014/ArohiAnand.jpg">
+      <publishTime>06/12/2015 08:16:25</publishTime>
+    </File>
+    <File Include="si2014/AS.jpg">
+      <publishTime>06/12/2015 08:16:26</publishTime>
+    </File>
+    <File Include="si2014/ASHOK.jpg">
+      <publishTime>06/12/2015 08:16:27</publishTime>
+    </File>
+    <File Include="si2014/ChandanKumarSingh.jpg">
+      <publishTime>06/12/2015 08:16:27</publishTime>
+    </File>
+    <File Include="si2014/FrPAUL.jpg">
+      <publishTime>06/12/2015 08:16:28</publishTime>
+    </File>
+    <File Include="si2014/FrPRINCIPAL.jpg">
+      <publishTime>06/12/2015 08:16:29</publishTime>
+    </File>
+    <File Include="si2014/FrRECTOR.jpg">
+      <publishTime>06/12/2015 08:16:29</publishTime>
+    </File>
+    <File Include="si2014/GhazalaShaheen.jpg">
+      <publishTime>06/12/2015 08:16:30</publishTime>
+    </File>
+    <File Include="si2014/GRT.jpg">
+      <publishTime>06/12/2015 08:16:31</publishTime>
+    </File>
+    <File Include="si2014/JB.jpg">
+      <publishTime>06/12/2015 08:16:32</publishTime>
+    </File>
+    <File Include="si2014/JCB.jpg">
+      <publishTime>06/12/2015 08:16:32</publishTime>
+    </File>
+    <File Include="si2014/KanchanKumarPatha.jpg">
+      <publishTime>06/12/2015 08:16:33</publishTime>
+    </File>
+    <File Include="si2014/MalaKumariUpadhyay.jpg">
+      <publishTime>06/12/2015 08:16:34</publishTime>
+    </File>
+    <File Include="si2014/MB.jpg">
+      <publishTime>06/12/2015 08:16:34</publishTime>
+    </File>
+    <File Include="si2014/MeenakshiPandey.jpg">
+      <publishTime>06/12/2015 08:16:35</publishTime>
+    </File>
+    <File Include="si2014/MEERA.jpg">
+      <publishTime>06/12/2015 08:16:36</publishTime>
+    </File>
+    <File Include="si2014/NeerjaLal.jpg">
+      <publishTime>06/12/2015 08:16:36</publishTime>
+    </File>
+    <File Include="si2014/NiharikaKumari.jpg">
+      <publishTime>06/12/2015 08:16:37</publishTime>
+    </File>
+    <File Include="si2014/PRABHAT.jpg">
+      <publishTime>06/12/2015 08:16:38</publishTime>
+    </File>
+    <File Include="si2014/PrabhatKumar.jpg">
+      <publishTime>06/12/2015 08:16:39</publishTime>
+    </File>
+    <File Include="si2014/PrabhatKumar2.jpg">
+      <publishTime>06/12/2015 08:16:39</publishTime>
+    </File>
+    <File Include="si2014/PrakashUpadhyay.jpg">
+      <publishTime>06/12/2015 08:16:40</publishTime>
+    </File>
+    <File Include="si2014/RajeevRanjanKumar.jpg">
+      <publishTime>06/12/2015 08:16:41</publishTime>
+    </File>
+    <File Include="si2014/RD.jpg">
+      <publishTime>06/12/2015 08:16:41</publishTime>
+    </File>
+    <File Include="si2014/RT.jpg">
+      <publishTime>06/12/2015 08:16:42</publishTime>
+    </File>
+    <File Include="si2014/SA.jpg">
+      <publishTime>06/12/2015 08:16:43</publishTime>
+    </File>
+    <File Include="si2014/SwatiSrivastava.jpg">
+      <publishTime>06/12/2015 08:16:44</publishTime>
+    </File>
+    <File Include="si2014/TapeshwarPrasadYadav.jpg">
+      <publishTime>06/12/2015 08:16:44</publishTime>
+    </File>
+    <File Include="si2014/TOPO.jpg">
+      <publishTime>06/12/2015 08:16:45</publishTime>
+    </File>
+    <File Include="si2014/VineetKumar.jpg">
+      <publishTime>06/12/2015 08:16:46</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>07/10/2018 05:51:39</publishTime>
+    </File>
+    <File Include="Site1.Master">
+      <publishTime>01/02/2018 20:34:14</publishTime>
+    </File>
+    <File Include="Site2.Master">
+      <publishTime>01/02/2018 20:34:15</publishTime>
+    </File>
+    <File Include="sitemap.xml">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="SiteN.Master">
+      <publishTime>07/13/2018 06:06:35</publishTime>
+    </File>
+    <File Include="SIYASAT.aspx">
+      <publishTime>05/19/2018 17:30:57</publishTime>
+    </File>
+    <File Include="SKILLING_THE_YOUTH_FOR_A_BETTER_TOMORROW.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/1.jpg">
+      <publishTime>06/03/2015 15:34:48</publishTime>
+    </File>
+    <File Include="slidajax/2.jpg">
+      <publishTime>06/03/2015 15:35:49</publishTime>
+    </File>
+    <File Include="slidajax/AD151.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/AD152.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/AD153.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/AD154.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/AD155.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/AD161.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/AD162.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/AD163.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/AD164.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/AD165.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/ADAY14_1.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/ADAY14_2.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/ADAY14_3.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/Alumni1_15.jpg">
+      <publishTime>07/02/2015 16:19:48</publishTime>
+    </File>
+    <File Include="slidajax/Alumni2_15.jpg">
+      <publishTime>07/02/2015 16:19:48</publishTime>
+    </File>
+    <File Include="slidajax/Alumni3_15.jpg">
+      <publishTime>07/02/2015 16:19:48</publishTime>
+    </File>
+    <File Include="slidajax/Alumni4_15.jpg">
+      <publishTime>07/02/2015 16:19:49</publishTime>
+    </File>
+    <File Include="slidajax/BD1.jpg">
+      <publishTime>10/11/2015 08:07:32</publishTime>
+    </File>
+    <File Include="slidajax/BD2.jpg">
+      <publishTime>10/11/2015 08:07:32</publishTime>
+    </File>
+    <File Include="slidajax/BDC14WH1.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/BDC14WH2.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/BlackTuesday1M.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/BlackTuesday2M.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/BlackTuesday3M.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/BR151.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/BR152.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/BR153.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/CA.jpg">
+      <publishTime>10/11/2015 08:07:32</publishTime>
+    </File>
+    <File Include="slidajax/CC.jpg">
+      <publishTime>10/11/2015 08:07:32</publishTime>
+    </File>
+    <File Include="slidajax/CCGC.jpg">
+      <publishTime>10/11/2015 08:07:32</publishTime>
+    </File>
+    <File Include="slidajax/Charu.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/CIT.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/CLIMATOUS1.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/CRD1.jpg">
+      <publishTime>10/11/2015 08:07:32</publishTime>
+    </File>
+    <File Include="slidajax/CRD2.jpg">
+      <publishTime>10/11/2015 08:07:32</publishTime>
+    </File>
+    <File Include="slidajax/CV1.jpg">
+      <publishTime>10/11/2015 08:07:32</publishTime>
+    </File>
+    <File Include="slidajax/CV2.jpg">
+      <publishTime>10/11/2015 08:07:32</publishTime>
+    </File>
+    <File Include="slidajax/FD14S_1.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/FD14S_2.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/FD14S_3.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/FD151.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/FD152.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/FD153.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/FEDC1.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/FEDC2.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/FEDC3.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/FIR.jpg">
+      <publishTime>10/11/2015 08:07:32</publishTime>
+    </File>
+    <File Include="slidajax/Flex15.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/FRD14S_1.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/FRD14S_10.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/FRD14S_11.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/FRD14S_12.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/FRD14S_2.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/FRD14S_3.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/FRD14S_4.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/FRD14S_5.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/FRD14S_6.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/FRD14S_7.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/FRD14S_8.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/FRD14S_9.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/GD2016_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/GD2016_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/GD2016_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/GD2016_4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/GD2016_5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/Harvest_Rice1.jpg">
+      <publishTime>12/09/2015 11:49:44</publishTime>
+    </File>
+    <File Include="slidajax/Harvest_Rice2.jpg">
+      <publishTime>12/09/2015 11:49:44</publishTime>
+    </File>
+    <File Include="slidajax/HR161.jpg">
+      <publishTime>12/11/2015 21:08:22</publishTime>
+    </File>
+    <File Include="slidajax/HR162.jpg">
+      <publishTime>12/11/2015 21:08:22</publishTime>
+    </File>
+    <File Include="slidajax/HRDSTXP1.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/HRDSTXP2.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/HRDSTXP3.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/HRDSTXP4.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/IC14WH1.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/IC14WH2.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/IC14WH3.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/ID151.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/ID152.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/ID153.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/ID154.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/JF1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/JF2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/JF3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/JF4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/JF5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/LT1.jpg">
+      <publishTime>02/10/2016 06:31:26</publishTime>
+    </File>
+    <File Include="slidajax/LT2.jpg">
+      <publishTime>02/10/2016 06:31:26</publishTime>
+    </File>
+    <File Include="slidajax/MTS.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/Orientation1_15.jpg">
+      <publishTime>07/02/2015 16:19:49</publishTime>
+    </File>
+    <File Include="slidajax/Orientation2_15.jpg">
+      <publishTime>07/02/2015 16:19:49</publishTime>
+    </File>
+    <File Include="slidajax/Pamphlet14F.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/Pamphlet15.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PD.jpg">
+      <publishTime>10/11/2015 08:07:31</publishTime>
+    </File>
+    <File Include="slidajax/PD0.jpg">
+      <publishTime>12/09/2015 11:49:44</publishTime>
+    </File>
+    <File Include="slidajax/PD1.jpg">
+      <publishTime>12/09/2015 11:49:44</publishTime>
+    </File>
+    <File Include="slidajax/PD131.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/PD132.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/PD133.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/PD134.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/PD2.jpg">
+      <publishTime>12/09/2015 11:49:44</publishTime>
+    </File>
+    <File Include="slidajax/PD3.jpg">
+      <publishTime>12/09/2015 11:49:44</publishTime>
+    </File>
+    <File Include="slidajax/PD4.jpg">
+      <publishTime>12/09/2015 11:49:44</publishTime>
+    </File>
+    <File Include="slidajax/PD5.jpg">
+      <publishTime>12/09/2015 11:49:43</publishTime>
+    </File>
+    <File Include="slidajax/PJSSLIDE1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PJSSLIDE2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PJSSLIDE3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PJSSLIDE4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PJSSLIDEw1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PJSSLIDEw10.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PJSSLIDEw2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PJSSLIDEw3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PJSSLIDEw4.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PJSSLIDEw5.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PJSSLIDEw6.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PJSSLIDEw7.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PJSSLIDEw8.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PJSSLIDEw9.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PJSXMAS1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PJSXMAS2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/Placement16_0.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/Placement16_1.jpg">
+      <publishTime>01/10/2016 16:53:39</publishTime>
+    </File>
+    <File Include="slidajax/Placement16_2.jpg">
+      <publishTime>01/10/2016 16:53:39</publishTime>
+    </File>
+    <File Include="slidajax/PS1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PS2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PS3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/PSW.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/RAJESH KUMAR MISHRA Bike Ins2016.rtf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/Rangoli1.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/Rangoli2.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/Rangoli3.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/Rangoli4.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/Rangoli5.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/RD16_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/RD16_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/RD16_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/RDay15_1.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/RDay15_2.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/RDay15_3.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/RDay15_4.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/RenewableEnergy1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/RenewableEnergy2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/SC14S_1.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/SC14S_2.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/SC14S_3.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/SD151.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/SD152.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/SD153.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/Signature.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/slide.xml">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/slide.xml~RF12d76da.TMP">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/SpeechCompetitions1.jpg">
+      <publishTime>08/08/2015 21:50:37</publishTime>
+    </File>
+    <File Include="slidajax/SpeechCompetitions2.jpg">
+      <publishTime>08/08/2015 21:50:37</publishTime>
+    </File>
+    <File Include="slidajax/SPICM1.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/SPICM2.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/SPICM3.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/STS1.jpg">
+      <publishTime>11/08/2015 20:52:26</publishTime>
+    </File>
+    <File Include="slidajax/STS2.jpg">
+      <publishTime>11/08/2015 20:52:26</publishTime>
+    </File>
+    <File Include="slidajax/SXCS14_1.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/SXCS14_2.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/SXCS14_3.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/SXCS14_4.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/TERI1M.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/TERI2M.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/TERI3M.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/WH14S_1.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/WH14S_2.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/WH14S_3.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/XMAS131.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/XMAS132.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/XMAS133.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/XMAS14_1.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/XMAS14_2.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/XMAS14_3.jpg">
+      <publishTime>03/02/2015 18:39:10</publishTime>
+    </File>
+    <File Include="slidajax/XMAS15_1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/XMAS15_2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/XMAS15_3.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="slidajax/Yuva_Prahari1.jpg">
+      <publishTime>10/11/2015 08:07:31</publishTime>
+    </File>
+    <File Include="slidajax/Yuva_Prahari2.jpg">
+      <publishTime>10/11/2015 08:07:31</publishTime>
+    </File>
+    <File Include="Social.aspx">
+      <publishTime>05/14/2018 16:13:07</publishTime>
+    </File>
+    <File Include="social/bookmark.png">
+      <publishTime>04/12/2018 09:00:39</publishTime>
+    </File>
+    <File Include="social/email.png">
+      <publishTime>04/12/2018 09:00:39</publishTime>
+    </File>
+    <File Include="social/facebook.png">
+      <publishTime>05/14/2018 11:10:12</publishTime>
+    </File>
+    <File Include="social/googleplus.png">
+      <publishTime>05/14/2018 11:10:12</publishTime>
+    </File>
+    <File Include="social/linkedin.png">
+      <publishTime>05/14/2018 11:10:12</publishTime>
+    </File>
+    <File Include="social/reddit.png">
+      <publishTime>05/14/2018 11:10:12</publishTime>
+    </File>
+    <File Include="social/twitter.png">
+      <publishTime>05/14/2018 11:10:12</publishTime>
+    </File>
+    <File Include="social/whatsapp.png">
+      <publishTime>05/14/2018 11:10:12</publishTime>
+    </File>
+    <File Include="SocialAction.Master">
+      <publishTime>07/06/2017 08:16:54</publishTime>
+    </File>
+    <File Include="SocialActionD.aspx">
+      <publishTime>07/04/2017 23:37:10</publishTime>
+    </File>
+    <File Include="SocialActionM.aspx">
+      <publishTime>07/04/2017 23:37:10</publishTime>
+    </File>
+    <File Include="SocialCommunications.Master">
+      <publishTime>07/06/2017 08:16:54</publishTime>
+    </File>
+    <File Include="SocialCommunicationsD.aspx">
+      <publishTime>07/04/2017 23:37:06</publishTime>
+    </File>
+    <File Include="SocialCommunicationsM.aspx">
+      <publishTime>07/04/2017 23:37:06</publishTime>
+    </File>
+    <File Include="SOUTH_ASIAN_CONSULTATION.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="sp.swf">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="Spirituality.aspx">
+      <publishTime>05/06/2018 18:02:12</publishTime>
+    </File>
+    <File Include="SPlacement.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="SPlacement1.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="Sports.aspx">
+      <publishTime>05/06/2018 18:02:12</publishTime>
+    </File>
+    <File Include="SResults.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="SRulesReg.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="st2611.swf">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="st2611a.swf">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="STATE.aspx">
+      <publishTime>05/23/2018 16:34:14</publishTime>
+    </File>
+    <File Include="STATE_LEVEL_CONSULTATION_ON_SOCIAL_INCLUSION.aspx">
+      <publishTime>07/02/2017 00:14:10</publishTime>
+    </File>
+    <File Include="STimetable.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="Strange_Amazing.aspx">
+      <publishTime>05/06/2018 18:02:12</publishTime>
+    </File>
+    <File Include="stxaviercollege.Publish.xml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="stxc2909.aspx">
+      <publishTime>06/11/2015 21:25:56</publishTime>
+    </File>
+    <File Include="stxc2909.swf">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="STXCR2V.aspx">
+      <publishTime>06/11/2015 21:25:56</publishTime>
+    </File>
+    <File Include="STXCR2V.swf">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="STXCtaru.aspx">
+      <publishTime>06/11/2015 21:25:56</publishTime>
+    </File>
+    <File Include="STXCtaru.swf">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="Styles/Site.css">
+      <publishTime>05/06/2018 18:00:14</publishTime>
+    </File>
+    <File Include="ST_MICHAELS_HAS_A_NEW_GROTTO.aspx">
+      <publishTime>07/02/2017 00:14:10</publishTime>
+    </File>
+    <File Include="ST_XAVIER_COLLEGE_OF_EDUCATION_ON_ECO_SENSITISATION.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="Swami_Vivekanand_Remembered.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="sxc091201.swf">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="sxc091202.swf">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="sxch161213.swf">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="sxch221213.swf">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="Tarumitra_at_Bihar_Diwas_2017.aspx">
+      <publishTime>07/02/2017 00:13:58</publishTime>
+    </File>
+    <File Include="TARUMITRA_AT_JAGRITI_MELA_2017_OF_INDIAN_RAILWAYS.aspx">
+      <publishTime>07/02/2017 00:14:00</publishTime>
+    </File>
+    <File Include="TARUMITRA_ECO_FEST_IN_ATTAPPADI_KERALA.aspx">
+      <publishTime>07/02/2017 00:14:00</publishTime>
+    </File>
+    <File Include="TARUMITRA_PJS_AT_ASIA_PACIFIC_MINISTERIAL_SUMMIT_BANGKOK.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="test3.html">
+      <publishTime>06/03/2015 16:25:52</publishTime>
+    </File>
+    <File Include="The_Annual_General_Body_Meeting_of_Patna_Jesuit_Society.aspx">
+      <publishTime>07/02/2017 00:14:00</publishTime>
+    </File>
+    <File Include="THE_ART_OF_LIVING_FALICITATES_TARUMITRA_ON_WORLD_ENVIRONMENT_DAY.aspx">
+      <publishTime>07/02/2017 00:14:00</publishTime>
+    </File>
+    <File Include="THE_FEAST_OF_THE_FOUNDER_CELEBRATED.aspx">
+      <publishTime>08/08/2017 19:26:04</publishTime>
+    </File>
+    <File Include="The_Green_Pledge_of_Tarumitra_clubs.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="The_Prince_of_Peace.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="TRAINING_ON_CHILD_PSYCHOLOGY.aspx">
+      <publishTime>07/02/2017 00:14:00</publishTime>
+    </File>
+    <File Include="Update_Password.aspx">
+      <publishTime>05/29/2018 17:11:36</publishTime>
+    </File>
+    <File Include="UserControl/AluminiMeet.ascx">
+      <publishTime>03/08/2015 16:58:00</publishTime>
+    </File>
+    <File Include="UserControl/Alumini_EOI.ascx">
+      <publishTime>07/02/2017 00:14:00</publishTime>
+    </File>
+    <File Include="UserControl/AlumniMeet.ascx">
+      <publishTime>07/02/2017 00:14:00</publishTime>
+    </File>
+    <File Include="UserControl/Contact.ascx">
+      <publishTime>07/02/2017 00:14:00</publishTime>
+    </File>
+    <File Include="UserControl/COpening.ascx">
+      <publishTime>07/02/2017 00:14:00</publishTime>
+    </File>
+    <File Include="UserControl/Correspondence.ascx">
+      <publishTime>07/02/2017 00:14:00</publishTime>
+    </File>
+    <File Include="UserControl/Enquiry.ascx">
+      <publishTime>07/02/2017 00:14:00</publishTime>
+    </File>
+    <File Include="UserControl/InterviewDetailForm.ascx">
+      <publishTime>07/02/2017 00:14:00</publishTime>
+    </File>
+    <File Include="UserEntry.aspx">
+      <publishTime>05/06/2018 18:00:14</publishTime>
+    </File>
+    <File Include="Utter_Pradesh.aspx">
+      <publishTime>04/21/2018 12:24:38</publishTime>
+    </File>
+    <File Include="Uttrakhand.aspx">
+      <publishTime>04/21/2018 12:25:19</publishTime>
+    </File>
+    <File Include="Video_News.aspx">
+      <publishTime>05/25/2018 13:13:22</publishTime>
+    </File>
+    <File Include="Viral_Video.aspx">
+      <publishTime>04/21/2018 13:38:30</publishTime>
+    </File>
+    <File Include="VisionMission.aspx">
+      <publishTime>07/04/2017 22:51:30</publishTime>
+    </File>
+    <File Include="VOTE_KI_CHOT/NDA-shock-TDP-split-from-coalition-support-of-no-confidence-motionsdfsdf.aspx">
+      <publishTime>05/06/2018 18:00:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/12/2018 07:51:07</publishTime>
+    </File>
+    <File Include="WebForm2.aspx">
+      <publishTime>06/11/2015 21:25:56</publishTime>
+    </File>
+    <File Include="WebsiteP.aspx">
+      <publishTime>03/02/2015 18:39:08</publishTime>
+    </File>
+    <File Include="WISDOM_FESTIVAL_WITH_HIS_HOLINESS_DALAI_LAMA.aspx">
+      <publishTime>07/02/2017 00:14:00</publishTime>
+    </File>
+    <File Include="Workshop.aspx">
+      <publishTime>06/11/2015 21:24:36</publishTime>
+    </File>
+    <File Include="xmlw/sitevisit.xml">
+      <publishTime>01/02/2018 20:22:26</publishTime>
+    </File>
+    <File Include="YOUNG_AT_HEART_ALWAYS.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Youth.Master">
+      <publishTime>07/06/2017 08:16:54</publishTime>
+    </File>
+    <File Include="youth.swf">
+      <publishTime>07/04/2017 23:37:50</publishTime>
+    </File>
+    <File Include="youth0101.swf">
+      <publishTime>07/04/2017 23:37:50</publishTime>
+    </File>
+    <File Include="youth15.swf">
+      <publishTime>07/04/2017 23:37:50</publishTime>
+    </File>
+    <File Include="YouthD.aspx">
+      <publishTime>07/04/2017 23:37:50</publishTime>
+    </File>
+    <File Include="YouthM.aspx">
+      <publishTime>07/04/2017 23:37:50</publishTime>
+    </File>
+    <File Include="Youth_Towards_Building_Harmony.aspx">
+      <publishTime>11/09/2017 20:49:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

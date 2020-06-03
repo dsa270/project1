@@ -1,0 +1,308 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="IGTNewsfNation.SiteMaster" %>
+
+<!DOCTYPE html >
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+
+  
+   <meta charset="utf-8"/>
+    <meta name="description" content="Hindi News - News4Nation latest news, breaking news in Hindi, Samachar (समाचार) and news headlines from bihar, "/>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link runat="server" rel="shortcut icon" href="favicon.ico" type="icons/x-icon"/>
+                <link runat="server" rel="icon" href="favicon.ico" type="image/ico"/>
+  <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"  type="text/javascript"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+  
+	
+	
+
+     <script src="js/bootstrap.min.js"></script>
+
+    <link href="css/menu.css" rel="stylesheet" type="text/css" />
+
+   
+<script src="PgwSlider/jquery.min.js" type="text/javascript" ></script>
+<script src="PgwSlider/PgwSlider.min.js" type="text/javascript" ></script>
+<link rel="stylesheet" href="PgwSlider/PgwSlider.min.css"/>
+    
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $('.pgwSlider').pgwSlider({
+
+            displayList: false
+        });
+
+    });
+
+    var myArray = <% = new System.Web.Script.Serialization.JavaScriptSerializer().Serialize(breakingnews) %>;
+    var i=0;
+    function refreshDiv() { //make sure braces are on the same line as the block statement, it's a good convention in JS
+
+        document.getElementById("div_breaking").innerHTML =  myArray[i];
+        var al = (myArray.length) -1;
+        if(i==al)
+        {
+            i=0;
+        }
+        else        i++;
+
+    }
+
+    window.setInterval(refreshDiv, 10000); //place reference to refreshDiv (not a string)
+   
+    
+</script>
+   
+   
+
+     <style type="text/css">
+       
+
+         
+
+
+         .video-responsive {
+             overflow: hidden;
+             padding-bottom: 56.25%;
+             position: relative;
+             height: 0;
+         }
+
+             .video-responsive iframe {
+                 left: 0;
+                 top: 0;
+                 height: 100%;
+                 width: 100%;
+                 position: absolute;
+             }
+
+               img.alldevices {
+             margin: auto;
+             height: auto;
+             max-width: 100%;
+             border: none;
+             display: block;
+         }
+     </style>  
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">     </asp:ContentPlaceHolder> 
+</head>
+<body style="background-color:#f5f5f5;">
+   
+        <form id="FormMain" runat="server"  >       
+         <div   style="background-color:#f2f2f2;max-width:1349px; margin:auto;">
+
+            <div class="col-sm-12" style="background-color:#ffffff;">
+
+                 <div class="col-sm-3"    >
+                         <div style="vertical-align: middle; text-align:center; width:80%; padding-left:20px; padding-bottom:20px; padding-right:20px; padding-top:20px;" > 
+                
+                             <a href="Default.aspx" >     <asp:Image ID="HeadMain" ImageUrl="Image/News4Nation_LogoOriginalNew.jpg" runat="server"  CssClass="img-responsive"  />  </a>  
+              
+                         </div>
+                 </div>
+                <div class="col-sm-9" style ="padding:5px;" >
+                      <ul class="pgwSlider">
+
+
+                        <li>
+                             <a href="http://www.nsit.in" target="_blank"> <img src="Advertisements/NSITMAB.jpg" />   </a>
+                        </li>
+                        <li>
+                            <a href="http://www.nsit.in" target="_blank"> <img src="Advertisements/NSITMAR.jpg" />   </a>
+                        </li>
+                          </ul>
+                     
+                 </div>
+               
+          </div>
+
+       
+     <div>
+       <a class="toggleMenu" href="Default.aspx">Menu</a>
+        <ul class="blue">
+                   <li><a href="Default.aspx" style="padding-left:15px;padding-right:15px"><span>Home</span></a> </li>   
+           <li><a href="SBihar.aspx" style="padding-left:15px;padding-right:15px"><span>बिहार</span></a> </li>   
+            <li><a href="National.aspx" class="first" style="padding-left:15px;padding-right:15px"><span>देश</span></a></li> 
+             <li><a href="SIYASAT.aspx" style="padding-left:15px;padding-right:15px"><span>सियासत</span></a></li>
+         
+             
+             <li><a href="Crime.aspx" style="padding-left:15px;padding-right:15px"><span>जुर्म</span></a></li>
+             <li><a href="N4NVideo.aspx" style="padding-left:15px;padding-right:15px"><span>वीडियो </span></a></li>
+             <li><a href="Sports.aspx" style="padding-left:15px;padding-right:15px"><span> स्पोर्ट्स</span></a></li>
+            
+             <li><a href="Movie_Mirchi.aspx" style="padding-left:15px;padding-right:15px"><span>मूवी मिर्ची</span></a></li>
+             <li><a href="HEALTH_MANTRA.aspx" style="padding-left:15px;padding-right:15px"><span>हेल्थ मन्त्रा </span></a></li>
+             <li><a href="Spirituality.aspx" style="padding-left:15px;padding-right:15px"><span>अध्यात्म </span></a></li>
+            <li><a href="GADGETS.aspx" style="padding-left:15px;padding-right:15px"><span>गैजेट्स</span></a></li>  
+        
+        </ul>
+  
+              
+    </div>
+
+                      <script type="text/javascript">
+
+                          var ww = document.body.clientWidth;
+
+                          $(document).ready(function () {
+                              $(".blue li a").each(function () {
+                                  if ($(this).next().length > 0) {
+                                      $(this).addClass("parent");
+                                  };
+                              })
+
+                              $(".toggleMenu").click(function (e) {
+                                  e.preventDefault();
+                                  $(this).toggleClass("active");
+                                  $(".blue").toggle();
+                              });
+                              adjustMenublue();
+                          })
+
+                          $(window).bind('resize orientationchange', function () {
+                              ww = document.body.clientWidth;
+                              adjustMenublue();
+                          });
+
+                          var adjustMenublue = function () {
+                              if (ww < 768) {
+                                  $(".toggleMenu").css("display", "inline-block");
+                                  if (!$(".toggleMenu").hasClass("active")) {
+                                      $(".blue").hide();
+                                  } else {
+                                      $(".blue").show();
+                                  }
+                                  $(".blue li").unbind('mouseenter mouseleave');
+                                  $(".blue li a.parent").unbind('click').bind('click', function (e) {
+                                      // must be attached to anchor element to prevent bubbling
+                                      e.preventDefault();
+                                      $(this).parent("li").toggleClass("hover");
+                                  });
+                              }
+                              else if (ww >= 768) {
+                                  $(".toggleMenu").css("display", "none");
+                                  $(".blue").show();
+                                  $(".blue li").removeClass("hover");
+                                  $(".blue li a").unbind('click');
+                                  $(".blue li").unbind('mouseenter mouseleave').bind('mouseenter mouseleave', function () {
+                                      // must be attached to li so that mouseleave is not triggered when hover over submenu
+                                      $(this).toggleClass('hover');
+                                  });
+                              }
+                          }
+
+            </script>
+               
+        <div class="col-sm-12"    >
+         
+                <div class="col-sm-2"  style="text-align:right; background-color:#000078; color:white;  line-height:140%;font-size:large;  font-family:'Copperplate Gothic';font-weight:bold; line-height:140%;min-height:30px; margin:auto; ">
+                     <img src="Image/BR.jpg" class="alldevices" alt="BREAKING NEWS:" />
+                   </div>
+
+                <div runat="server" class="col-sm-10" style="text-align:left; background-color: #d70012;  padding-top: 5px; line-height:140%;min-height:30px;  color: white;" id="div_breaking">
+                
+                     </div>      
+                                 
+       </div>
+
+
+             
+
+          
+
+ <div>
+             <div class="col-sm-12" style="text-align:left;">
+           <div class="col-sm-1" >  
+             
+               </div>
+                <div class="col-sm-7" style="background-color: #FFFFFF;">  
+              <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+                    </div>
+            
+                
+            <div class="col-sm-3"  id="SidePanel" runat="server" style="background-color: #FFFFFF;" >
+                    <div class="col-sm-12" runat="server"     id="ipyttv" >
+           
+             </div>
+
+               
+               
+            <div class="col-sm-12" runat="server"    id="AdBTV" >
+            <div style="vertical-align: middle; text-align:center; width:100%; "> 
+              
+            </div>
+             </div>
+                 <div class="col-sm-12" runat="server" style= "height:360px; background-color:#101920; padding:5px;"   id="LiveNews" >
+            
+                            
+          
+             </div>
+                  <div class="col-sm-12" runat="server"  style= "height:360px; background-color:#2e4da7; padding:5px;"  id="TrendingNews" >
+
+
+           
+             </div>
+
+                   <div class="col-sm-12" runat="server"    id="TrendingVideos" >
+
+           
+             </div>
+               
+               
+
+                 <div class="col-sm-12" runat="server"    id="HOROSCOPE" >
+           
+             </div>
+
+                 <div class="col-sm-12" runat="server"    id="PHOTO" >
+          
+             </div>
+
+
+                 <div class="col-sm-12" runat="server"    id="N4N_COLUMNIST" >
+            
+             </div>
+
+
+                 <div class="col-sm-12" runat="server"    id="LITERATURE_WORLD" >
+            
+             </div>
+
+                 <div class="col-sm-12" runat="server"    id="GADGETS" >
+          
+             </div></div>
+                
+                 <div class="col-sm-1" >  
+                   
+               </div>
+               
+                </div>
+           
+     </div>
+            <div class="clear">
+            </div>
+       
+        <div   style="background-image: url('/Image/bg_black.png'); line-height:140%;font-size:14px; color:white; text-align:center;">
+         <div class="col-sm-12"  style="background-image:url('/Image/bg_black.png');padding:20px;" >
+          
+                <div class="col-sm-6" style="text-align:left; " >  ©2018 न्यूज़4Nation, Patna (India) <br />
+                   For Suggestions Mail To: <a href="mailto:info@news4nation.com"  title="info@news4nation.com" target="_top">info@news4nation.com</a>
+             </div>
+              <div class="col-sm-6" style="text-align:right;" > 
+                   Maintained By:<a href="http://www.innogroove.in/" title="www.innogroove.in" target="_blank"><b>Inno Groove Technologies</b></a>
+                    </div>
+               </div>
+       
+         </div>
+          </div>
+            
+    </form>
+    
+</body>
+
+   
+</html>

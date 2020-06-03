@@ -1,0 +1,255 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    margin: 0px;
+    padding: 0px;
+    color: #000000;
+    background-image: url('/Image/bg_white.png');
+}
+
+
+a:link, a:visited, a:active {
+    color: #034af3;
+}
+
+p {
+    font-family: Arial;
+    color: #000000;
+    line-height:140%;font-size: 14px;
+    text-align: justify;
+    padding: 10px 20px 10px 20px;
+    line-height: 25px;
+}
+
+
+.forwlink {
+    font-family: Arial;
+    color: Maroon;
+    line-height:140%;font-size: 12px;
+    text-align: right;
+}
+
+
+.griedview {
+    border: 1px solid #003300;
+    font-family: Arial;
+    line-height:140%;font-size: 14px;
+    color: #000000;
+}
+
+
+/* HEADINGS   
+----------------------------------------------------------*/
+
+h1, h2, h3, h4, h5 {
+    font-family: Arial;
+    color: #2F2483;
+    font-style: normal;
+    font-weight: bold;
+    padding: 4px 20px 0px 20px;
+    margin: 0px;
+}
+
+
+h1 {
+    line-height:140%;font-size: 24px;
+}
+
+h2 {
+    line-height:140%;font-size: 20px;
+}
+
+h3 {
+    line-height:140%;font-size: 18px;
+}
+
+h4 {
+    line-height:140%;font-size: 17px;
+}
+
+h5 {
+    color: #000000;
+    line-height:140%;font-size: 16px;
+    padding: 0px 20px 0px 20px;
+}
+
+.page {
+    border-style: outset;
+    border-width:0px 5px 0px 5px;
+    border-color: #003366;
+    width: 990px;
+    background-color: #F5F5F5;
+    margin: 0px auto 0px auto;
+    cursor: default;
+}
+
+.header {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    width: 990px;
+}
+
+.main {
+    margin: 0px;
+    padding: 0px;
+    text-align: justify;
+    line-height:140%;min-height: 300px;
+}
+
+.leftCol {
+    padding: 6px 0px;
+    margin: 12px 8px 8px 8px;
+    width: 200px;
+    line-height:140%;min-height: 200px;
+}
+
+.footer {
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    background-image: url('/Image/bg_black.png');
+    /*width: 960; border-top: 4px solid #000066;*/
+}
+
+/* TAB MENU   
+----------------------------------------------------------*/
+
+div.hideSkiplink {
+    width: 990px;
+}
+
+div.menu {
+    padding: 0px 4px 0px 10px;
+}
+
+    div.menu ul li a, div.menu ul li a:visited {
+        color: #cc0000;
+    }
+
+        div.menu ul li a:hover {
+            background-color: #ffcc00;
+            color: #FFFFFF;
+        }
+
+        div.menu ul li a:active {
+            color: #FFFFFF;
+        }
+
+/* FORM ELEMENTS   
+----------------------------------------------------------*/
+
+fieldset {
+    margin: 1em 0px;
+    padding: 1em;
+    border: 1px solid #ccc;
+}
+
+    fieldset p {
+        margin: 2px 12px 10px 10px;
+    }
+
+    fieldset.login label, fieldset.register label, fieldset.changePassword label {
+        display: block;
+    }
+
+    fieldset label.inline {
+        display: inline;
+    }
+
+legend {
+    line-height:140%;font-size: 1.1em;
+    font-weight: 600;
+    padding: 2px 4px 8px 4px;
+}
+
+input.textEntry {
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+input.passwordEntry {
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+div.accountInfo {
+    width: 42%;
+}
+
+/* MISC  
+----------------------------------------------------------*/
+
+.clear {
+    clear: both;
+}
+
+.title {
+    display: block;
+    float: left;
+    text-align: left;
+    width: 30;
+    /*border-bottom :4px solid #0000CC;*/
+}
+
+.newnews {
+    display: block;
+    float: left;
+    width: auto;
+}
+
+.loginDisplay {
+    line-height:140%;font-size: 1.1em;
+    display: block;
+    text-align: right;
+    padding: 10px;
+    color: White;
+}
+
+    .loginDisplay a:link {
+        color: white;
+    }
+
+    .loginDisplay a:visited {
+        color: white;
+    }
+
+    .loginDisplay a:hover {
+        color: white;
+    }
+
+.failureNotification {
+    line-height:140%;font-size: 1.2em;
+    color: Red;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.submitButton {
+    text-align: center;
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+.tNotice {
+    width: 250px;
+}
+
+.tAbout {
+    width: 750px;
+}
+
+.htable {
+    vertical-align: top;
+    margin: 0px;
+    padding: 0px;
+}
+
+.htd {
+    vertical-align: top;
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid #0000CC;
+}

@@ -1,0 +1,21 @@
+CREATE TABLE [dbo].[PRODUCT_Sub_CATEGORY](
+	[product_Sub_category_id] [bigint] IDENTITY(1,1) NOT NULL,
+	[product_Sub_category_code] [varchar](50) NULL,
+	[product_category_code] [varchar](50) NULL,
+	[product_Sub_category_name] [varchar](50) NULL,
+	[product_Sub_category_details] [varchar](50) NULL,
+	[product_Sub_category_status] [varchar](50) NULL,
+	[product_Sub_category_start_date] [varchar](50) NULL,
+	[product_Sub_category_end_date] [varchar](50) NULL
+) ON [PRIMARY]
+
+
+CREATE TABLE [dbo].[PRODUCT_CATEGORY](
+	[product_category_id] [bigint] IDENTITY(1,1) NOT NULL,
+	[product_category_code] [varchar](50) NULL,
+	[product_category_name] [varchar](50) NULL,
+	[product_category_details] [varchar](50) NULL,
+	[product_category_status] [varchar](50) NULL,
+	[product_category_start_date] [varchar](50) NULL,
+	[product_category_end_date] [varchar](50) NULL
+) ON [PRIMARY]

@@ -1,0 +1,315 @@
+﻿body   
+{
+    margin:0;
+    padding:0;
+    background:url('/Image/Background.jpg");
+    background-image: url('/Image/Background.jpg");
+    font-size: 12px;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, Comic Sans MS;
+    color: #000000;
+}
+
+a:link, a:visited
+{
+    color: #034af3;
+}
+a:active
+{
+    color: #034af3;
+}
+p
+{
+    font-family :Comic Sans MS;  
+  color : #000000;
+    font-size:14px;
+    text-align: justify;
+    padding :   1px 20px 1px 20px;
+}
+
+.forwlink
+{
+    font-family :Comic Sans MS;  
+  color : Maroon;
+    font-size:12px;
+    text-align: right;
+}
+
+
+.griedview 
+{
+    border: 1px solid #003300;
+    font-family :Comic Sans MS ;
+    font-size :14px;
+    color: #000000;
+    
+}
+
+
+/* HEADINGS   
+----------------------------------------------------------*/
+
+h1, h2, h3,h4,h5
+{
+  font-family :Comic Sans MS;  
+  color: #000000;
+ font-style :normal;
+ font-weight :bold;
+ padding :     4px 20px 0px 20px;
+ margin:0px; 
+}
+h1
+{
+    font-size: 24px;
+    text-decoration: underline;
+    color:#003300;
+}
+h2
+{
+ font-size: 18px;
+}
+
+h3
+{
+font-size: 16px;
+}
+h4
+{
+font-size: 15px;
+}
+h5
+{
+   font-size: 14px;
+   font-weight : normal;
+  padding:  0px 20px 0px 20px; 
+}
+.page
+{
+    width: 990px;
+    background-color: #fff;
+    margin:   0px  auto 0px auto;
+    border-top: 4px solid #003300;
+    border-left: 4px solid #003300;
+    border-right:4px solid #003300; 
+}
+
+.header
+{
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+   
+    width: 100%;
+}
+
+.main
+{
+    margin:0px;
+    padding:0px;
+    text-align: justify;
+   min-height: 450px;
+}
+
+.leftCol
+{
+    padding: 6px 0px;
+    margin: 12px 8px 8px 8px;
+    width: 200px;
+    min-height: 200px;
+}
+
+.footer
+{
+    padding : 10px 10px 10px 10px;
+    text-align: center;
+    border-top: 4px solid #003300;
+}
+
+/* TAB MENU   
+----------------------------------------------------------*/
+
+div.hideSkiplink
+{
+    background-color:#003300;
+    width:100%;
+    font-family : Copperplate Gothic Bold ;
+    font-size : 16px;
+}
+
+div.menu
+{
+    padding:   4px  0px 4px  10px;
+}
+
+div.menu ul
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+}
+
+div.menu ul li a, div.menu ul li a:visited
+{
+    background-color: #004800;
+    border: 1px #005500 solid;
+    color: #CCFFD9;
+    display: block;
+    line-height: 1.35em;
+    padding: 4px 20px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+div.menu ul li a:hover
+{
+    background-color:#6FFFB7;
+    color: #004800;
+    text-decoration: none;
+}
+
+div.menu ul li a:active
+{
+    background-color: #004800;
+    color: #00FF80;
+    text-decoration: none;
+}
+
+/* FORM ELEMENTS   
+----------------------------------------------------------*/
+
+fieldset
+{
+    margin: 1em 0px;
+    padding: 1em;
+    border: 1px solid #ccc;
+}
+
+fieldset p 
+{
+    margin: 2px 12px 10px 10px;
+}
+
+fieldset.login label, fieldset.register label, fieldset.changePassword label
+{
+    display: block;
+}
+
+fieldset label.inline 
+{
+    display: inline;
+}
+
+legend 
+{
+    font-size: 1.1em;
+    font-weight: 600;
+    padding: 2px 4px 8px 4px;
+}
+
+input.textEntry 
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+input.passwordEntry 
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+div.accountInfo
+{
+    width: 42%;
+}
+
+/* MISC  
+----------------------------------------------------------*/
+
+.clear
+{
+    clear: both;
+}
+
+.title
+{
+    display: block;
+    float: left;
+    text-align: left;
+    width: 30;
+   border-bottom :4px solid #005500;
+}
+ .newnews 
+ {
+    display: block;
+    float: left;
+    width: auto;
+ }
+.loginDisplay
+{
+    font-size: 1.1em;
+    display: block;
+    text-align: right;
+    padding: 10px;
+    color: White;
+}
+
+.loginDisplay a:link
+{
+    color: white;
+}
+
+.loginDisplay a:visited
+{
+    color: white;
+}
+
+.loginDisplay a:hover
+{
+    color: white;
+}
+
+.failureNotification
+{
+    font-size: 1.2em;
+    color: Red;
+}
+.bold
+{
+    font-weight: bold;
+}
+
+.submitButton
+{
+    text-align: center;
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+.tNotice 
+{
+     width: 250px;
+}
+.tAbout
+{
+    width:750px;
+}
+.htable 
+{
+    vertical-align :top;
+    margin:0px;
+    padding:0px; 
+     background-color: #fff;
+}
+.htd
+{   vertical-align :top;
+    margin:0px;
+    padding:0px; 
+ border:   1px solid #005500; 
+}
+.tslideshow
+{
+    margin:0;
+   padding:0;
+   border-bottom:   4px solid #005500; 
+}

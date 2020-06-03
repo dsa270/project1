@@ -1,0 +1,173 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="JECRC_PMall.Admin" %>
+
+<!DOCTYPE html >
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+   <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"  type="text/javascript"></script>
+     <script src="js/bootstrap.min.js"></script>
+
+    <link href="css/menu.css" rel="stylesheet" type="text/css" />
+
+   
+<script src="PgwSlider/jquery.min.js" type="text/javascript" ></script>
+<script src="PgwSlider/PgwSlider.min.js" type="text/javascript" ></script>
+<link rel="stylesheet" href="PgwSlider/PgwSlider.min.css"/>
+    
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $('.pgwSlider').pgwSlider({
+
+            displayList: false
+        });
+
+    });
+</script>
+
+        <asp:ContentPlaceHolder ID="HeadContent" runat="server">     </asp:ContentPlaceHolder>
+   
+</head>
+<body style="background-image:url('image/bg_white.png')">
+        <form id="FormMain" runat="server"  >
+        
+            <div   style="background-color:#f2f2f2;">
+         <div class="col-sm-12" style="background-color:#f2f2f2;">
+
+         <div class="col-sm-3"    >
+        <div style="vertical-align: middle; background-color:ghostwhite; text-align:center; width:80%; padding-top :10px; padding-bottom:10px; padding-left:20px; padding-right:10px "> 
+                
+               <asp:Image ID="HeadMain" ImageUrl="Image/News4Nation_Logo.jpg" runat="server"  CssClass="img-responsive"  />   
+              
+       </div>
+             </div>
+             <div class="col-sm-9" id ="LMainSection"  >
+
+                  <div class="col-sm-8"  style="float:left;padding:10px;" >
+                     <asp:Label ID="lbl_login_Details" runat="server" Text="" Width="600px"  Font-Size="Large" ForeColor="#003300"></asp:Label>
+                     
+                
+                      </div>
+                 
+                
+
+                     <div class="col-sm-2"  style="float:left;padding:10px;" >
+                    <asp:Button ID="change_password" runat="server" Text="Change Password"  BorderStyle="Outset" Font-Bold="True" Font-Names="Monotype Corsiva" Font-Size="X-Large" ForeColor="#000099" OnClick="change_password_Click" CssClass="btn-default active"  TabIndex="10" />
+                          </div>
+                         <div class="col-sm-2"  style="float:right; padding:10px;" >
+                 <asp:Button ID="btn_logout" runat="server" Text="Log Out"  BorderStyle="Outset" Font-Bold="True" Font-Names="Monotype Corsiva" Font-Size="X-Large" ForeColor="#000099" OnClick="btn_logout_Click" CssClass="btn-default active" TabIndex="10" />
+                              </div>
+
+
+                 
+                 </div>
+               
+             </div>
+               
+
+    <div style="background-color: #003366; text-align: center; line-height:30px">
+       <a class="toggleMenu" href="Default.aspx">Menu</a>
+        <ul class="blue">
+                       
+          
+           <li><a href="UserEntry.aspx" style="padding-left:30px;padding-right:30px"><span>User</span></a>
+          
+                <ul>    
+                     <li><a href="PMUsers.aspx">User Details</a> </li>
+                    <li><a href="LoginEntry.aspx">Login Details</a> </li>     
+                     <li><a href="NewsType.aspx">News Type Details</a> </li>                  
+                </ul>         
+            </li>   
+         
+           
+             <li><a href="Video_News.aspx" style="padding-left:30px;padding-right:30px"><span>Video Details</span></a> </li>
+
+        </ul>
+   
+   </div>
+              
+       
+
+ </div>
+    <script type="text/javascript">
+
+        var ww = document.body.clientWidth;
+
+        $(document).ready(function () {
+            $(".blue li a").each(function () {
+                if ($(this).next().length > 0) {
+                    $(this).addClass("parent");
+                };
+            })
+
+            $(".toggleMenu").click(function (e) {
+                e.preventDefault();
+                $(this).toggleClass("active");
+                $(".blue").toggle();
+            });
+            adjustMenublue();
+        })
+
+        $(window).bind('resize orientationchange', function () {
+            ww = document.body.clientWidth;
+            adjustMenublue();
+        });
+
+        var adjustMenublue = function () {
+            if (ww < 768) {
+                $(".toggleMenu").css("display", "inline-block");
+                if (!$(".toggleMenu").hasClass("active")) {
+                    $(".blue").hide();
+                } else {
+                    $(".blue").show();
+                }
+                $(".blue li").unbind('mouseenter mouseleave');
+                $(".blue li a.parent").unbind('click').bind('click', function (e) {
+                    // must be attached to anchor element to prevent bubbling
+                    e.preventDefault();
+                    $(this).parent("li").toggleClass("hover");
+                });
+            }
+            else if (ww >= 768) {
+                $(".toggleMenu").css("display", "none");
+                $(".blue").show();
+                $(".blue li").removeClass("hover");
+                $(".blue li a").unbind('click');
+                $(".blue li").unbind('mouseenter mouseleave').bind('mouseenter mouseleave', function () {
+                    // must be attached to li so that mouseleave is not triggered when hover over submenu
+                    $(this).toggleClass('hover');
+                });
+            }
+        }
+
+    </script>
+
+          </div> 
+      
+             
+           
+               
+        
+            <div >
+                <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+            </div>
+            <div class="clear">
+            </div>
+       
+        <div   style="background-image: url('/Image/bg_black.png'); line-height:140%;font-size:14px; color:white; text-align:center;">
+         <div class="col-sm-12"  style="background-image:url('/Image/bg_black.png');padding:20px;" >
+          
+                <div class="col-sm-6" style="text-align:left; " >  ©2019 Inno Groove Technologies, Patna (India)  </div>
+              <div class="col-sm-6" style="text-align:right;" > Maintained By:<a href="http://www.innogroove.in/" title="www.innogroove.in" target="_blank"><b>Inno Groove Technologies</b></a>
+                    </div>
+               </div>
+       
+        
+          </div>
+    </form>
+    
+</body>
+</html>

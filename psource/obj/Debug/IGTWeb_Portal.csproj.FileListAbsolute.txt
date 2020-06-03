@@ -1,0 +1,36 @@
+C:\Users\RITESH\Desktop\coding211118\Web Portal\psource\bin\xmlw\sitevisit.xml
+C:\Users\RITESH\Desktop\coding211118\Web Portal\psource\bin\IGTNews4Nation2018.dll.config
+C:\Users\RITESH\Desktop\coding211118\Web Portal\psource\bin\IGTNews4Nation2018.dll
+C:\Users\RITESH\Desktop\coding211118\Web Portal\psource\bin\IGTNews4Nation2018.pdb
+C:\Users\RITESH\Desktop\coding211118\Web Portal\psource\bin\GoogleTranslateAPI.xml
+C:\Users\RITESH\Desktop\coding211118\Web Portal\psource\obj\Debug\IGTWeb_Portal.csprojResolveAssemblyReference.cache
+C:\Users\RITESH\Desktop\coding211118\Web Portal\psource\obj\Debug\IGTNews4Nation2018.dll.licenses
+C:\Users\RITESH\Desktop\coding211118\Web Portal\psource\obj\Debug\IGTNews4Nation2018.dll
+C:\Users\RITESH\Desktop\coding211118\Web Portal\psource\obj\Debug\IGTNews4Nation2018.pdb
+G:\coding120619\Web Portal\psource\bin\xmlw\sitevisit.xml
+G:\coding120619\Web Portal\psource\bin\IGTNews4Nation2018.dll.config
+G:\coding120619\Web Portal\psource\bin\IGTNews4Nation2018.dll
+G:\coding120619\Web Portal\psource\bin\IGTNews4Nation2018.pdb
+G:\coding120619\Web Portal\psource\bin\GoogleTranslateAPI.xml
+G:\coding120619\Web Portal\psource\obj\Debug\IGTWeb_Portal.csprojResolveAssemblyReference.cache
+G:\coding120619\Web Portal\psource\obj\Debug\IGTNews4Nation2018.dll.licenses
+G:\coding120619\Web Portal\psource\obj\Debug\IGTNews4Nation2018.dll
+G:\coding120619\Web Portal\psource\obj\Debug\IGTNews4Nation2018.pdb
+C:\Users\RITESH\Desktop\Web_Portal_Patan_Mall\psource\obj\Debug\IGTWeb_Portal.csprojResolveAssemblyReference.cache
+C:\Users\RITESH\Desktop\Web_Portal_Patan_Mall\psource\obj\Debug\IGTNews4Nation2018.dll.licenses
+C:\Users\RITESH\Desktop\Web_Portal_Patan_Mall\psource\obj\Debug\IGTNews4Nation2018.dll
+C:\Users\RITESH\Desktop\Web_Portal_Patan_Mall\psource\bin\xmlw\sitevisit.xml
+C:\Users\RITESH\Desktop\Web_Portal_Patan_Mall\psource\bin\IGTNews4Nation2018.dll.config
+C:\Users\RITESH\Desktop\Web_Portal_Patan_Mall\psource\bin\IGTNews4Nation2018.dll
+C:\Users\RITESH\Desktop\Web_Portal_Patan_Mall\psource\bin\IGTNews4Nation2018.pdb
+C:\Users\RITESH\Desktop\Web_Portal_Patan_Mall\psource\bin\GoogleTranslateAPI.xml
+C:\Users\RITESH\Desktop\Web_Portal_Patan_Mall\psource\obj\Debug\IGTNews4Nation2018.pdb
+C:\Users\RITIKA\Desktop\Web_Portal_Patan_Mall\psource\bin\xmlw\sitevisit.xml
+C:\Users\RITIKA\Desktop\Web_Portal_Patan_Mall\psource\bin\GoogleTranslateAPI.xml
+C:\Users\RITIKA\Desktop\Web_Portal_Patan_Mall\psource\obj\Debug\IGTWeb_Portal.csprojResolveAssemblyReference.cache
+C:\Users\RITIKA\Desktop\Web_Portal_Patan_Mall\psource\bin\JECRC_PMall2019.dll.config
+C:\Users\RITIKA\Desktop\Web_Portal_Patan_Mall\psource\bin\JECRC_PMall2019.dll
+C:\Users\RITIKA\Desktop\Web_Portal_Patan_Mall\psource\bin\JECRC_PMall2019.pdb
+C:\Users\RITIKA\Desktop\Web_Portal_Patan_Mall\psource\obj\Debug\JECRC_PMall2019.dll.licenses
+C:\Users\RITIKA\Desktop\Web_Portal_Patan_Mall\psource\obj\Debug\JECRC_PMall2019.dll
+C:\Users\RITIKA\Desktop\Web_Portal_Patan_Mall\psource\obj\Debug\JECRC_PMall2019.pdb

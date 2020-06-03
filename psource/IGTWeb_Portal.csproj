@@ -1,0 +1,693 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Default.props" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Default.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CFFCD5DB-3A01-40B4-9DFE-7EE416C5915C}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JECRC_PMall</RootNamespace>
+    <AssemblyName>JECRC_PMall2019</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <TargetFrameworkProfile />
+    <UseGlobalApplicationHostFile />
+    <TypeScriptToolsVersion>1.4</TypeScriptToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PackageAsSingleFile>false</PackageAsSingleFile>
+    <Prefer32Bit>false</Prefer32Bit>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=4.1.7.1213, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\coding2017Backup\ICAP_Survey\ICAP_SurveyB\psource\bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="AjaxMin, Version=4.97.4951.28478, Culture=neutral, PublicKeyToken=21ef50ce11b5d80f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\coding2017Backup\ICAP_Survey\ICAP_SurveyB\psource\bin\AjaxMin.dll</HintPath>
+    </Reference>
+    <Reference Include="FreeTextBox, Version=3.3.1.12354, Culture=neutral, PublicKeyToken=5962a4e684a48b87, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\HARSH\Downloads\FTBv3-3-1\Framework-4-0\FreeTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="GoogleTranslateAPI">
+      <HintPath>C:\Users\HARSH\Downloads\GoogleTranslateAPI_0.1\bin\GoogleTranslateAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\coding2017Backup\ICAP_Survey\ICAP_SurveyB\psource\bin\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Extensions.Design" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Account\ChangePassword.aspx" />
+    <Content Include="Account\ChangePasswordSuccess.aspx" />
+    <Content Include="Account\Login.aspx" />
+    <Content Include="Account\Register.aspx" />
+    <Content Include="AdminDefault.aspx" />
+    <Content Include="Advertisements\AdBTV.jpg" />
+    <Content Include="Advertisements\NSIT12W.jpg" />
+    <Content Include="Advertisements\NSITANP.jpg" />
+    <Content Include="Advertisements\NSITMAB.jpg" />
+    <Content Include="Advertisements\NSITMAR.jpg" />
+    <Content Include="Advertisements\NSITPLW.jpg" />
+    <Content Include="Advertisements\NSITPMW.jpg" />
+    <Content Include="aspnet_client\FreeTextBox\FTB-FreeTextBox.js" />
+    <Content Include="aspnet_client\FreeTextBox\FTB-ImageGallery.js" />
+    <Content Include="aspnet_client\FreeTextBox\FTB-Pro.js" />
+    <Content Include="aspnet_client\FreeTextBox\FTB-ToolbarItems.js" />
+    <Content Include="aspnet_client\FreeTextBox\FTB-Utility.js" />
+    <Content Include="cartt.aspx" />
+    <Content Include="Image\LOGOW.png" />
+    <Content Include="loginpage.aspx" />
+    <Content Include="offerImages\peripherals.jpg" />
+    <Content Include="offerImages\SlideApple.jpeg" />
+    <Content Include="offerImages\SlideApple1.jpeg" />
+    <Content Include="offerImages\slideimage.jpg" />
+    <Content Include="pimages\%40HOME BY NILKAMAL AVERY ENGINEERED WOOD 4 DOOR WARDROBE  1.jpeg" />
+    <Content Include="pimages\%40HOME BY NILKAMAL AVERY ENGINEERED WOOD 4 DOOR WARDROBE  2.jpeg" />
+    <Content Include="pimages\APPLE IPHONE 7 %28SILVER, 32 GB%291.jpeg" />
+    <Content Include="pimages\APPLE IPHONE 7 %28SILVER, 32 GB%292.jpeg" />
+    <Content Include="pimages\carbon-steel-slim00032-godrej-interio-textured-purple-original-imaf9yahngg7gyne - Copy.jpeg" />
+    <Content Include="pimages\carbon-steel-slim00032-godrej-interio-textured-purple-original-imafhnyffvh9py2k - Copy.jpeg" />
+    <Content Include="pimages\carbon-steel-slim00176-godrej-interio-textured-purple-original-imaf9yahug6g6scq - Copy.jpeg" />
+    <Content Include="pimages\CORRUPTION AND LOKPAL  %28POLISH SCIENCE, HARDCOVER, O. P. DHIMAN%291.jpeg" />
+    <Content Include="pimages\decentralised-governance-regional-development-and-women-original-imaech2yhkhvpdum.jpeg" />
+    <Content Include="pimages\dress1.jpeg" />
+    <Content Include="pimages\dress2.jpeg" />
+    <Content Include="pimages\dress3.jpeg" />
+    <Content Include="pimages\FURNITUREKRAFT NANCY METAL QUEEN BED 1.jpeg" />
+    <Content Include="pimages\FURNITUREKRAFT NANCY METAL QUEEN BED 2.jpeg" />
+    <Content Include="pimages\gernimo.jpeg" />
+    <Content Include="pimages\GODREJ INTERIO SLIMLINE 2 DOOR 4 SHELF METAL ALMIRAH1.jpeg" />
+    <Content Include="pimages\GODREJ INTERIO SLIMLINE 2 DOOR 4 SHELF METAL ALMIRAH2.jpeg" />
+    <Content Include="pimages\GODREJ INTERIO SLIMLINE 2 DOOR 4 SHELF METAL ALMIRAH3.jpeg" />
+    <Content Include="pimages\HP 15Q CORE I3 7TH GEN1.jpeg" />
+    <Content Include="pimages\HP 15Q CORE I3 7TH GEN2.jpeg" />
+    <Content Include="pimages\HP 15Q CORE I3 7TH GEN3.jpeg" />
+    <Content Include="pimages\hp-1000-original-imafcxt5zxc2dhjt - Copy - Copy.jpeg" />
+    <Content Include="pimages\hp-1000-original-imafcxt5zxc2dhjt - Copy.jpeg" />
+    <Content Include="pimages\hp-1000-original-imafd3jqxjzfjnde - Copy - Copy.jpeg" />
+    <Content Include="pimages\hp-1000-original-imafd3jqxjzfjnde - Copy.jpeg" />
+    <Content Include="pimages\hp-1000-original-imafd3jqy5sygn2s - Copy - Copy.jpeg" />
+    <Content Include="pimages\hp-1000-original-imafd3jqy5sygn2s.jpeg" />
+    <Content Include="pimages\hp-4qm14aa-original-imafd3jqwzt5aytd - Copy - Copy.jpeg" />
+    <Content Include="pimages\hp-64gb-usb-v220w-pen-drive-original-imafev75s54euu5y.jpeg" />
+    <Content Include="pimages\hp-hp-all-in-one-pc-20-c416il-original-imafe45sdjc3y483.jpeg" />
+    <Content Include="pimages\hp-hp-all-in-one-pc-20-c416il-original-imafe45se4hkqsa2.jpeg" />
+    <Content Include="pimages\hp-hp-all-in-one-pc-20-c416il-original-imafe45sjkmeqnnb.jpeg" />
+    <Content Include="pimages\hp-pen-drive-original-imafev75td8xyyqx.jpeg" />
+    <Content Include="pimages\iPhone 7 _ Buy Apple iPhone 7 %28Silver, 128 GB%29 Online at Best Price with Great Offers _ Flipkart - Copy.html" />
+    <Content Include="pimages\isc-chemistry-chapterwise-topicwise-question-bank-class-12-original-imaf4vvfazarmywt.jpeg" />
+    <Content Include="pimages\king-brown-hdf-high-density-fibreboard-bd8803-6-royaloak-brown-original-imaffugzpzvevy7c - Copy.jpeg" />
+    <Content Include="pimages\king-brown-hdf-high-density-fibreboard-bd8803-6-royaloak-brown-original-imaffugzwxxubgyx - Copy.jpeg" />
+    <Content Include="pimages\king-brown-hdf-high-density-fibreboard-bd8803-6-royaloak-brown-original-imaffujbgtb5ykxy - Copy.jpeg" />
+    <Content Include="pimages\king-brown-hdf-high-density-fibreboard-bd8803-6-royaloak-brown-original-imaffujyefgegmbm - Copy.jpeg" />
+    <Content Include="pimages\laptop 1.png" />
+    <Content Include="pimages\lenovo-aio-330-20igm-original-imafdhc6p8fn6vdy.jpeg" />
+    <Content Include="pimages\lenovo-aio-330-20igm-original-imafdhc6qhfdfajb.jpeg" />
+    <Content Include="pimages\lenovo-aio-330-20igm-original-imafdhc6wdzfgfhy.jpeg" />
+    <Content Include="pimages\lenovo-aio-330-20igm-original-imafdhc6wffzbta4.jpeg" />
+    <Content Include="pimages\logo.jpg" />
+    <Content Include="pimages\MEN COLOR BLOCK CASUAL SPREAD SHIRT1.jpg" />
+    <Content Include="pimages\MEN COLOR BLOCK CASUAL SPREAD SHIRT2.png" />
+    <Content Include="pimages\MEN COLOR BLOCK CASUAL SPREAD SHIRT3.jpg" />
+    <Content Include="pimages\MEN COLORBLOCKED CASUAL SHIRT1.jpeg" />
+    <Content Include="pimages\MEN COLORBLOCKED CASUAL SHIRT2.jpeg" />
+    <Content Include="pimages\MEN COLORBLOCKED CASUAL SHIRT3.jpeg" />
+    <Content Include="pimages\MEN SOLID PATHANI KURTA  %28BLACK%291.jpeg" />
+    <Content Include="pimages\MEN SOLID PATHANI KURTA  %28BLACK%292.jpeg" />
+    <Content Include="pimages\MEN SOLID PATHANI KURTA  %28BLACK%293.jpeg" />
+    <Content Include="pimages\multicolor-rubber-wood-dco006-hangit-natural-wood-finish-original-imae8wrnragrns8r - Copy.jpeg" />
+    <Content Include="pimages\multicolor-rubber-wood-dco006-hangit-natural-wood-finish-original-imafhdwfvefdvwhu - Copy.jpeg" />
+    <Content Include="pimages\multicolor-rubber-wood-dco006-hangit-natural-wood-finish-original-imafhe9unbwhnyub - Copy.jpeg" />
+    <Content Include="pimages\NOKIA 6.1 PLUS %28BLACK, 64 GB%29  1.jpeg" />
+    <Content Include="pimages\NOKIA 6.1 PLUS %28BLACK, 64 GB%29  2.jpeg" />
+    <Content Include="pimages\NOKIA 6.1 PLUS %28BLACK, 64 GB%29  3.jpeg" />
+    <Content Include="pimages\oswaal-cbse-question-bank-class-12-biology-chapterwise-topicwise-original-imaffwy2qwya3ddj.jpeg" />
+    <Content Include="pimages\particle-board-21077-woodness-wenge-original-imafc9mvmschqsyu - Copy.jpeg" />
+    <Content Include="pimages\particle-board-21077-woodness-wenge-original-imafc9mvzmtqnrsk - Copy.jpeg" />
+    <Content Include="pimages\particle-board-520-spacewood-natural-wenge-original-imaf7bvgfqdchdzh - Copy.jpeg" />
+    <Content Include="pimages\particle-board-521-spacewood-natural-wenge-original-imaf2gh9sbhctyfb - Copy.jpeg" />
+    <Content Include="pimages\particle-board-fiwdavery4dwdmwge-home-by-nilkamal-wenge-original-imaf6dh5fbusjzb8 - Copy.jpeg" />
+    <Content Include="pimages\percy jackson.jpeg" />
+    <Content Include="pimages\power-bank-dlp6006n-philips-original-imaf6spgaay3hdf6.jpeg" />
+    <Content Include="pimages\power-bank-dlp6006n-philips-original-imaf6spgfhyhgn32.jpeg" />
+    <Content Include="pimages\power-bank-dlp6006n-philips-original-imaf6spgsdvdmwfw - Copy - Copy.jpeg" />
+    <Content Include="pimages\power-bank-dlp6006n-philips-original-imaf6spgsdvdmwfw - Copy.jpeg" />
+    <Content Include="pimages\power-bank-dlp6006n-philips-original-imaf6spgz3jdkmhz.jpeg" />
+    <Content Include="pimages\punta-puntaevla-original-imaf7ef6dpdm2zdn.jpeg" />
+    <Content Include="pimages\punta-puntaevla-original-imaf7ef6x3ch3vxt.jpeg" />
+    <Content Include="pimages\queen-na-wrought-iron-fk-db-3142-q-furniturekraft-black-original-imaf52szzkhgujn7 - Copy.jpeg" />
+    <Content Include="pimages\queen-na-wrought-iron-fk-db-3142-q-furniturekraft-black-original-imaf5q3gz5zgtsh7 - Copy.jpeg" />
+    <Content Include="pimages\ramayan-3392-a-d-original-imadsz9xfdyugjfe.jpeg" />
+    <Content Include="pimages\REALME C2 %28DIAMOND BLACK, 16 GB%29  1.jpeg" />
+    <Content Include="pimages\REALME C2 %28DIAMOND BLACK, 16 GB%29  2.jpeg" />
+    <Content Include="pimages\ROYALOAK MOON NATURAL FIBER OUTDOOR CHAIR  1.jpeg" />
+    <Content Include="pimages\ROYALOAK MOON NATURAL FIBER OUTDOOR CHAIR  2.jpeg" />
+    <Content Include="pimages\ROYALOAK MOON NATURAL FIBER OUTDOOR CHAIR  3.jpeg" />
+    <Content Include="pimages\ROYALOAK SWIFT ENGINEERED WOOD QUEEN HYDRAULIC BED  1.jpeg" />
+    <Content Include="pimages\ROYALOAK SWIFT ENGINEERED WOOD QUEEN HYDRAULIC BED  2.jpeg" />
+    <Content Include="pimages\ROYALOAK SWIFT ENGINEERED WOOD QUEEN HYDRAULIC BED  3.jpeg" />
+    <Content Include="pimages\ROYALOAK SWIFT ENGINEERED WOOD QUEEN HYDRAULIC BED  4.jpeg" />
+    <Content Include="pimages\single-na-rosewood-sheesham-vh-13013-vintej-home-provincial-teak-original-imaf9rggsztxy6dp - Copy.jpeg" />
+    <Content Include="pimages\single-na-rosewood-sheesham-vh-13013-vintej-home-provincial-teak-original-imaf9rggtfbcxkjz - Copy.jpeg" />
+    <Content Include="pimages\single-na-rosewood-sheesham-vh-13013-vintej-home-provincial-teak-original-imaf9rggw52mqrxg - Copy.jpeg" />
+    <Content Include="pimages\SLIM MEN GREY JEANS1.jpeg" />
+    <Content Include="pimages\SLIM MEN GREY JEANS2.jpeg" />
+    <Content Include="pimages\SLIM MEN GREY JEANS3.jpeg" />
+    <Content Include="pimages\SLIM MEN GREY JEANS4.jpeg" />
+    <Content Include="pimages\SOLID WOMEN JUMPSUIT1.jpeg" />
+    <Content Include="pimages\SOLID WOMEN JUMPSUIT2.jpeg" />
+    <Content Include="pimages\SOLID WOMEN JUMPSUIT3.jpeg" />
+    <Content Include="pimages\SOLID WOMEN JUMPSUIT4.jpeg" />
+    <Content Include="pimages\SPACEWOOD DEW ENGINEERED WOOD 2 DOOR WARDROBE  1.jpeg" />
+    <Content Include="pimages\SPACEWOOD DEW ENGINEERED WOOD 2 DOOR WARDROBE  2.jpeg" />
+    <Content Include="pimages\SPACEWOOD DEW ENGINEERED WOOD 2 DOOR WARDROBE  3.jpeg" />
+    <Content Include="pimages\SPACEWOOD DEW ENGINEERED WOOD 2 DOOR WARDROBE  4.jpeg" />
+    <Content Include="pimages\SPACEWOOD DEW ENGINEERED WOOD 2 DOOR WARDROBE  5.jpeg" />
+    <Content Include="pimages\STYLERIDE POLKA PRINT TIE  %28PACK OF 4%291.jpeg" />
+    <Content Include="pimages\STYLERIDE POLKA PRINT TIE  %28PACK OF 4%292.jpeg" />
+    <Content Include="pimages\STYLERIDE POLKA PRINT TIE  %28PACK OF 4%293.jpeg" />
+    <Content Include="pimages\THE COMPLETE NOVEL OF SHERLOCK HOLMES 1.jpeg" />
+    <Content Include="pimages\the-srinagar-conspiracy-original-imafa97hzqkkzvgv.jpeg" />
+    <Content Include="pimages\the-srinagar-conspiracy-original-imafbtfwgk5hgezg.jpeg" />
+    <Content Include="pimages\together-with-cbse-ncert-previous-8-years-chapterwise-solved-original-imaf6a8mxgszmpkb.jpeg" />
+    <Content Include="pimages\vagrants-in-the-valley-original-imafbthqvzmwxr48.jpeg" />
+    <Content Include="pimages\VINTEJ HOME STRIADO SHEESHAM SOLID WOOD SINGLE BED  1.jpeg" />
+    <Content Include="pimages\VINTEJ HOME STRIADO SHEESHAM SOLID WOOD SINGLE BED  2.jpeg" />
+    <Content Include="pimages\VINTEJ HOME STRIADO SHEESHAM SOLID WOOD SINGLE BED  3.jpeg" />
+    <Content Include="pimages\wicker-odc61-royaloak-brown-original-imafeqhzqfpaet4p - Copy.jpeg" />
+    <Content Include="pimages\WOODNESS IBIZA ENGINEERED WOOD ALMIRAH  1.jpeg" />
+    <Content Include="pimages\WOODNESS IBIZA ENGINEERED WOOD ALMIRAH  2.jpeg" />
+    <Content Include="pimages\WOODNESS IBIZA ENGINEERED WOOD ALMIRAH  3.jpeg" />
+    <Content Include="pimages\WOODNESS IBIZA ENGINEERED WOOD ALMIRAH  4.jpeg" />
+    <Content Include="pimages\zebion-zb-3012-series-original-imaf9efxfkfza4nr %281%29.jpeg" />
+    <Content Include="productshow.aspx" />
+    <Content Include="Product_Category.aspx" />
+    <Content Include="signup.aspx" />
+    <Content Include="Update_Password.aspx" />
+    <Content Include="Video_News.aspx" />
+    <Content Include="icons\android-icon-144x144.png" />
+    <Content Include="icons\android-icon-192x192.png" />
+    <Content Include="icons\android-icon-36x36.png" />
+    <Content Include="icons\android-icon-48x48.png" />
+    <Content Include="icons\android-icon-72x72.png" />
+    <Content Include="icons\android-icon-96x96.png" />
+    <Content Include="icons\apple-icon-114x114.png" />
+    <Content Include="icons\apple-icon-120x120.png" />
+    <Content Include="icons\apple-icon-144x144.png" />
+    <Content Include="icons\apple-icon-152x152.png" />
+    <Content Include="icons\apple-icon-180x180.png" />
+    <Content Include="icons\apple-icon-57x57.png" />
+    <Content Include="icons\apple-icon-60x60.png" />
+    <Content Include="icons\apple-icon-72x72.png" />
+    <Content Include="icons\apple-icon-76x76.png" />
+    <Content Include="icons\apple-icon-precomposed.png" />
+    <Content Include="icons\apple-icon.png" />
+    <Content Include="icons\browserconfig.xml" />
+    <Content Include="icons\favicon-16x16.png" />
+    <Content Include="icons\favicon-32x32.png" />
+    <Content Include="icons\favicon-96x96.png" />
+    <Content Include="favicon.ico" />
+    <Content Include="icons\ms-icon-144x144.png" />
+    <Content Include="icons\ms-icon-150x150.png" />
+    <Content Include="icons\ms-icon-310x310.png" />
+    <Content Include="icons\ms-icon-70x70.png" />
+    <Content Include="Image\BR.jpg" />
+    <Content Include="bin\AjaxControlToolkit.dll" />
+    <Content Include="bin\AjaxMin.dll" />
+    <Content Include="bin\FreeTextBox.dll" />
+    <Content Include="bin\xmlw\sitevisit.xml" />
+    <Content Include="css\bootstrap-theme.css" />
+    <Content Include="css\bootstrap-theme.min.css" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\FreeTextBox.css" />
+    <Content Include="css\green.css" />
+    <Content Include="css\menu.css" />
+    <Content Include="css\pink.css" />
+    <Content Include="css\red.css" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\Kruti-Dev-010.ttf.svg" />
+    <Content Include="ftb.imagegallery.aspx" />
+    <Content Include="icons\adobe.PNG" />
+    <Content Include="icons\calendar.gif" />
+    <Content Include="icons\Calendar.png" />
+    <Content Include="icons\csv.PNG" />
+    <Content Include="icons\delete.png" />
+    <Content Include="icons\edit.png" />
+    <Content Include="icons\excel.PNG" />
+    <Content Include="icons\IGT.jpg" />
+    <Content Include="icons\word.PNG" />
+    <Content Include="images\arrow.png" />
+    <Content Include="images\downarrow.png" />
+    <Content Include="images\downarrowblack.png" />
+    <Content Include="images\menubtn.png" />
+    <Content Include="images\trianglewhite.png" />
+    <Content Include="Image\Back.jpg" />
+    <Content Include="Image\BackB.jpg" />
+    <Content Include="Image\Backgroundo.jpg" />
+    <Content Include="Image\bg_black.png" />
+    <Content Include="Image\bg_cyan.png" />
+    <Content Include="Image\bg_white.png" />
+    <Content Include="Image\fb.png" />
+    <Content Include="Image\fbw.jpg" />
+    <Content Include="Image\fbw.png" />
+    <Content Include="Image\MiddleBackground.png" />
+    <Content Include="Image\STARnew.gif" />
+    <Content Include="Image\announcement.png" />
+    <Content Include="Image\announcement1.png" />
+    <Content Include="Image\login.png" />
+    <Content Include="Image\UC.png" />
+    <Content Include="Image\under_construction.png" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\jquery-1.7.2.min.js" />
+    <Content Include="js\npm.js" />
+    <Content Include="js\red.js" />
+    <Content Include="js\script.js" />
+    <Content Include="css\bootstrap-theme.css.map" />
+    <Content Include="css\bootstrap.css.map" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="Image\Thumbs.db" />
+    <Content Include="css\bootstrap-theme.min.css.map" />
+    <Content Include="css\bootstrap.min.css.map" />
+    <Content Include="Login.aspx" />
+    <Content Include="NewsDetails.aspx" />
+    <Content Include="PMUsers.aspx" />
+    <Content Include="PgwSlider\jquery.min.js" />
+    <Content Include="PgwSlider\pgwslider.css" />
+    <Content Include="PgwSlider\pgwslider.js" />
+    <Content Include="PgwSlider\pgwslider.min.css" />
+    <Content Include="PgwSlider\pgwslider.min.js" />
+    <Content Include="pgwslideshow\jquery.min.js" />
+    <Content Include="pgwslideshow\pgwslideshow.css" />
+    <Content Include="pgwslideshow\pgwslideshow.js" />
+    <Content Include="pgwslideshow\pgwslideshow.min.css" />
+    <Content Include="pgwslideshow\pgwslideshow.min.js" />
+    <Content Include="pgwslideshow\pgwslideshow_light.css" />
+    <Content Include="pgwslideshow\pgwslideshow_light.min.css" />
+    <Content Include="plugins\jquery.easing.1.3.js" />
+    <Content Include="plugins\jquery.fitvids.js" />
+    <Content Include="Image\Background.jpg" />
+    <Content Include="Image\UC.jpg" />
+    <Content Include="Default.aspx" />
+    <Content Include="Scripts\ContentScroller.js" />
+    <Content Include="Scripts\gistfile1.js" />
+    <Content Include="Site.Master" />
+    <Content Include="social\bookmark.png" />
+    <Content Include="social\email.png" />
+    <Content Include="social\facebook.png" />
+    <Content Include="social\googleplus.png" />
+    <Content Include="social\linkedin.png" />
+    <Content Include="social\reddit.png" />
+    <Content Include="social\twitter.png" />
+    <Content Include="social\whatsapp.png" />
+    <Content Include="product_sub_category.aspx" />
+    <Content Include="product.aspx" />
+    <Content Include="user1.aspx" />
+    <Content Include="electronics.aspx" />
+    <Content Include="clothes.aspx" />
+    <Content Include="books.aspx" />
+    <Content Include="furniture.aspx" />
+    <Content Include="cart.aspx" />
+    <Content Include="wishlist.aspx" />
+    <Content Include="xmlw\sitevisit.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Styles\Site.css" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="SiteN.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account\ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.designer.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.Master.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin.Master.designer.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+    </Compile>
+    <Compile Include="AdminDefault.aspx.cs">
+      <DependentUpon>AdminDefault.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminDefault.aspx.designer.cs">
+      <DependentUpon>AdminDefault.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN_Patna_Mall.Master.cs">
+      <DependentUpon>ADMIN_Patna_Mall.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ADMIN_Patna_Mall.Master.designer.cs">
+      <DependentUpon>ADMIN_Patna_Mall.Master</DependentUpon>
+    </Compile>
+    <Compile Include="cartt.aspx.cs">
+      <DependentUpon>cartt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cartt.aspx.designer.cs">
+      <DependentUpon>cartt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="loginpage.aspx.cs">
+      <DependentUpon>loginpage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="loginpage.aspx.designer.cs">
+      <DependentUpon>loginpage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NewFolder1\Ritika.cs" />
+    <Compile Include="productshow.aspx.cs">
+      <DependentUpon>productshow.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="productshow.aspx.designer.cs">
+      <DependentUpon>productshow.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Product_Category.aspx.cs">
+      <DependentUpon>Product_Category.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Product_Category.aspx.designer.cs">
+      <DependentUpon>Product_Category.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="signup.aspx.cs">
+      <DependentUpon>signup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="signup.aspx.designer.cs">
+      <DependentUpon>signup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Update_Password.aspx.cs">
+      <DependentUpon>Update_Password.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Update_Password.aspx.designer.cs">
+      <DependentUpon>Update_Password.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Video_News.aspx.cs">
+      <DependentUpon>Video_News.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Video_News.aspx.designer.cs">
+      <DependentUpon>Video_News.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="common\CaptchaImage.cs" />
+    <Compile Include="common\IGTMAIN.cs" />
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MLogin.Master.cs">
+      <DependentUpon>MLogin.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MLogin.Master.designer.cs">
+      <DependentUpon>MLogin.Master</DependentUpon>
+    </Compile>
+    <Compile Include="NewsDetails.aspx.cs">
+      <DependentUpon>NewsDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NewsDetails.aspx.designer.cs">
+      <DependentUpon>NewsDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PMUsers.aspx.cs">
+      <DependentUpon>PMUsers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PMUsers.aspx.designer.cs">
+      <DependentUpon>PMUsers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="SiteN.Master.cs">
+      <DependentUpon>SiteN.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SiteN.Master.designer.cs">
+      <DependentUpon>SiteN.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="product_sub_category.aspx.cs">
+      <DependentUpon>product_sub_category.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="product_sub_category.aspx.designer.cs">
+      <DependentUpon>product_sub_category.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="product.aspx.cs">
+      <DependentUpon>product.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="product.aspx.designer.cs">
+      <DependentUpon>product.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="user1.aspx.cs">
+      <DependentUpon>user1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="user1.aspx.designer.cs">
+      <DependentUpon>user1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="electronics.aspx.cs">
+      <DependentUpon>electronics.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="electronics.aspx.designer.cs">
+      <DependentUpon>electronics.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="clothes.aspx.cs">
+      <DependentUpon>clothes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="clothes.aspx.designer.cs">
+      <DependentUpon>clothes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="books.aspx.cs">
+      <DependentUpon>books.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="books.aspx.designer.cs">
+      <DependentUpon>books.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="furniture.aspx.cs">
+      <DependentUpon>furniture.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="furniture.aspx.designer.cs">
+      <DependentUpon>furniture.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cart.aspx.cs">
+      <DependentUpon>cart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cart.aspx.designer.cs">
+      <DependentUpon>cart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wishlist.aspx.cs">
+      <DependentUpon>wishlist.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wishlist.aspx.designer.cs">
+      <DependentUpon>wishlist.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="data\" />
+    <Folder Include="obj\Debug\Package\" />
+    <Folder Include="obj\Release\ProfileTransformWebConfig\transformed\Account\" />
+    <Folder Include="obj\Release\TempPE\" />
+    <Folder Include="obj\Release\TransformWebConfig\transformed\Account\" />
+    <Folder Include="PDFR\" />
+    <Folder Include="PHOTO\" />
+    <Folder Include="slidajax\" />
+    <Folder Include="UserControl\" />
+    <Folder Include="VImages\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Account\Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="obj\Release\TransformWebConfig\assist\Web.config" />
+    <Content Include="obj\Release\TransformWebConfig\original\Web.config" />
+    <Content Include="obj\Release\TransformWebConfig\transformed\Web.config" />
+    <Content Include="PgwSlider\.gitattributes" />
+    <Content Include="PgwSlider\.gitignore" />
+    <Content Include="PgwSlider\LICENSE.md" />
+    <Content Include="PgwSlider\package.json" />
+    <Content Include="PgwSlider\pgwslider.jquery.json" />
+    <Content Include="PgwSlider\README.md" />
+    <Content Include="pgwslideshow\.gitattributes" />
+    <Content Include="pgwslideshow\.gitignore" />
+    <Content Include="pgwslideshow\LICENSE.md" />
+    <Content Include="pgwslideshow\package.json" />
+    <Content Include="pgwslideshow\pgwslideshow.jquery.json" />
+    <Content Include="pgwslideshow\README.md" />
+    <Content Include="fonts\Kruti-Dev-010.ttf.eot" />
+    <Content Include="fonts\Kruti-Dev-010.ttf.woff" />
+    <Content Include="Admin.Master" />
+    <Content Include="MLogin.Master" />
+    <Content Include="icons\manifest.json" />
+    <Content Include="Downloads\NSIT_in_Brief.pdf" />
+    <Content Include="ADMIN_Patna_Mall.Master" />
+    <Content Include="offerImages\SlideApple1.psd" />
+    <None Include="Properties\PublishProfiles\Profile1.pubxml" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets')" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>20834</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/atlasstudio</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

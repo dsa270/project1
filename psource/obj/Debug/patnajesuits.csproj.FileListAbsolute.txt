@@ -1,0 +1,56 @@
+E:\coding15052017\PJS2017\psource\bin\xmlw\sitevisit.xml
+E:\coding15052017\PJS2017\psource\obj\Debug\patnajesuits.csprojResolveAssemblyReference.cache
+E:\coding15052017\PJS2017\psource\bin\patnajesuits2017.dll.config
+E:\coding15052017\PJS2017\psource\bin\patnajesuits2017.dll
+E:\coding15052017\PJS2017\psource\bin\patnajesuits2017.pdb
+E:\coding15052017\PJS2017\psource\obj\Debug\patnajesuits2017.dll
+E:\coding15052017\PJS2017\psource\obj\Debug\patnajesuits2017.pdb
+E:\coding15052017\PJS2017 - 0907201712\psource\bin\xmlw\sitevisit.xml
+E:\coding15052017\PJS2017 - 0907201712\psource\bin\patnajesuits2017.dll.config
+E:\coding15052017\PJS2017 - 0907201712\psource\bin\patnajesuits2017.dll
+E:\coding15052017\PJS2017 - 0907201712\psource\bin\patnajesuits2017.pdb
+E:\coding15052017\PJS2017 - 0907201712\psource\obj\Debug\patnajesuits.csprojResolveAssemblyReference.cache
+E:\coding15052017\PJS2017 - 0907201712\psource\obj\Debug\patnajesuits2017.dll
+E:\coding15052017\PJS2017 - 0907201712\psource\obj\Debug\patnajesuits2017.pdb
+E:\coding10072017\PJS2017 - 10072017\psource\bin\xmlw\sitevisit.xml
+E:\coding10072017\PJS2017 - 10072017\psource\bin\patnajesuits2017.dll.config
+E:\coding10072017\PJS2017 - 10072017\psource\bin\patnajesuits2017.dll
+E:\coding10072017\PJS2017 - 10072017\psource\bin\patnajesuits2017.pdb
+E:\coding10072017\PJS2017 - 10072017\psource\obj\Debug\patnajesuits2017.dll
+E:\coding10072017\PJS2017 - 10072017\psource\obj\Debug\patnajesuits2017.pdb
+E:\coding10072017\PJS2017 - 10072017\psource\obj\Debug\patnajesuits.csprojResolveAssemblyReference.cache
+E:\coding18072017\PJS2017 - 10072017\psource\bin\xmlw\sitevisit.xml
+E:\coding18072017\PJS2017 - 10072017\psource\bin\patnajesuits2017.dll.config
+E:\coding18072017\PJS2017 - 10072017\psource\bin\patnajesuits2017.dll
+E:\coding18072017\PJS2017 - 10072017\psource\bin\patnajesuits2017.pdb
+E:\coding18072017\PJS2017 - 10072017\psource\obj\Debug\patnajesuits.csprojResolveAssemblyReference.cache
+E:\coding18072017\PJS2017 - 10072017\psource\obj\Debug\patnajesuits2017.dll
+E:\coding18072017\PJS2017 - 10072017\psource\obj\Debug\patnajesuits2017.pdb
+E:\coding30072017\PJS2017\psource\bin\xmlw\sitevisit.xml
+E:\coding30072017\PJS2017\psource\bin\patnajesuits2017.dll.config
+E:\coding30072017\PJS2017\psource\bin\patnajesuits2017.dll
+E:\coding30072017\PJS2017\psource\bin\patnajesuits2017.pdb
+E:\coding30072017\PJS2017\psource\obj\Debug\patnajesuits.csprojResolveAssemblyReference.cache
+E:\coding30072017\PJS2017\psource\obj\Debug\patnajesuits2017.dll
+E:\coding30072017\PJS2017\psource\obj\Debug\patnajesuits2017.pdb
+E:\coding10092017\PJS2017\psource\bin\xmlw\sitevisit.xml
+E:\coding10092017\PJS2017\psource\bin\patnajesuits2017.dll.config
+E:\coding10092017\PJS2017\psource\bin\patnajesuits2017.dll
+E:\coding10092017\PJS2017\psource\bin\patnajesuits2017.pdb
+E:\coding10092017\PJS2017\psource\obj\Debug\patnajesuits.csprojResolveAssemblyReference.cache
+E:\coding10092017\PJS2017\psource\obj\Debug\patnajesuits2017.dll
+E:\coding10092017\PJS2017\psource\obj\Debug\patnajesuits2017.pdb
+C:\Users\HARSH\Desktop\PJS2017\psource\bin\xmlw\sitevisit.xml
+C:\Users\HARSH\Desktop\PJS2017\psource\bin\patnajesuits2017.dll.config
+C:\Users\HARSH\Desktop\PJS2017\psource\bin\patnajesuits2017.dll
+C:\Users\HARSH\Desktop\PJS2017\psource\bin\patnajesuits2017.pdb
+C:\Users\HARSH\Desktop\PJS2017\psource\obj\Debug\patnajesuits.csprojResolveAssemblyReference.cache
+C:\Users\HARSH\Desktop\PJS2017\psource\obj\Debug\patnajesuits2017.dll
+C:\Users\HARSH\Desktop\PJS2017\psource\obj\Debug\patnajesuits2017.pdb
+G:\coding03122017\PJS2017\psource\bin\xmlw\sitevisit.xml
+G:\coding03122017\PJS2017\psource\bin\patnajesuits2017.dll.config
+G:\coding03122017\PJS2017\psource\bin\patnajesuits2017.dll
+G:\coding03122017\PJS2017\psource\bin\patnajesuits2017.pdb
+G:\coding03122017\PJS2017\psource\obj\Debug\patnajesuits.csprojResolveAssemblyReference.cache
+G:\coding03122017\PJS2017\psource\obj\Debug\patnajesuits2017.dll
+G:\coding03122017\PJS2017\psource\obj\Debug\patnajesuits2017.pdb

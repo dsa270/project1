@@ -1,0 +1,88 @@
+G:\coding2018\News4Nation\psource\bin\xmlw\sitevisit.xml
+G:\coding2018\News4Nation\psource\bin\IGTNews4Nation2018.dll.config
+G:\coding2018\News4Nation\psource\bin\IGTNews4Nation2018.dll
+G:\coding2018\News4Nation\psource\bin\IGTNews4Nation2018.pdb
+G:\coding2018\News4Nation\psource\obj\Release\IGTNews4Nation2018.dll
+G:\coding2018\News4Nation\psource\obj\Release\IGTNews4Nation2018.pdb
+E:\coding21032018\News4Nation2503\psource\bin\xmlw\sitevisit.xml
+E:\coding21032018\News4Nation2503\psource\bin\IGTNews4Nation2018.dll.config
+E:\coding21032018\News4Nation2503\psource\bin\IGTNews4Nation2018.dll
+E:\coding21032018\News4Nation2503\psource\bin\IGTNews4Nation2018.pdb
+E:\coding21032018\News4Nation2503\psource\obj\Release\IGTNews4Nation2018.dll.licenses
+E:\coding21032018\News4Nation2503\psource\obj\Release\IGTNews4Nation2018.dll
+E:\coding21032018\News4Nation2503\psource\obj\Release\IGTNews4Nation2018.pdb
+E:\coding21032018\News4Nation2503\psource\obj\Release\IGTNews4Nation.csprojResolveAssemblyReference.cache
+E:\coding21032018\News4Nation2503\psource\bin\GoogleTranslateAPI.dll
+E:\coding21032018\News4Nation2503\psource\bin\Newtonsoft.Json.dll
+E:\coding21032018\News4Nation2503\psource\bin\GoogleTranslateAPI.xml
+E:\coding21032018\News4Nation1604\psource\bin\xmlw\sitevisit.xml
+E:\coding21032018\News4Nation1604\psource\bin\IGTNews4Nation2018.dll.config
+E:\coding21032018\News4Nation1604\psource\bin\IGTNews4Nation2018.dll
+E:\coding21032018\News4Nation1604\psource\bin\IGTNews4Nation2018.pdb
+E:\coding21032018\News4Nation1604\psource\bin\GoogleTranslateAPI.dll
+E:\coding21032018\News4Nation1604\psource\bin\Newtonsoft.Json.dll
+E:\coding21032018\News4Nation1604\psource\bin\GoogleTranslateAPI.xml
+E:\coding21032018\News4Nation1604\psource\obj\Release\IGTNews4Nation.csprojResolveAssemblyReference.cache
+E:\coding21032018\News4Nation1604\psource\obj\Release\IGTNews4Nation2018.dll.licenses
+E:\coding21032018\News4Nation1604\psource\obj\Release\IGTNews4Nation2018.dll
+E:\coding21032018\News4Nation1604\psource\obj\Release\IGTNews4Nation2018.pdb
+E:\coding21032018\News4Nation1704\psource\bin\xmlw\sitevisit.xml
+E:\coding21032018\News4Nation1704\psource\bin\IGTNews4Nation2018.dll.config
+E:\coding21032018\News4Nation1704\psource\bin\IGTNews4Nation2018.dll
+E:\coding21032018\News4Nation1704\psource\bin\IGTNews4Nation2018.pdb
+E:\coding21032018\News4Nation1704\psource\bin\GoogleTranslateAPI.dll
+E:\coding21032018\News4Nation1704\psource\bin\Newtonsoft.Json.dll
+E:\coding21032018\News4Nation1704\psource\bin\GoogleTranslateAPI.xml
+E:\coding21032018\News4Nation1704\psource\obj\Release\IGTNews4Nation.csprojResolveAssemblyReference.cache
+E:\coding21032018\News4Nation1704\psource\obj\Release\IGTNews4Nation2018.dll.licenses
+E:\coding21032018\News4Nation1704\psource\obj\Release\IGTNews4Nation2018.dll
+E:\coding21032018\News4Nation1704\psource\obj\Release\IGTNews4Nation2018.pdb
+E:\coding21032018\News4Nation1804\psource\bin\xmlw\sitevisit.xml
+E:\coding21032018\News4Nation1804\psource\bin\IGTNews4Nation2018.dll.config
+E:\coding21032018\News4Nation1804\psource\bin\IGTNews4Nation2018.dll
+E:\coding21032018\News4Nation1804\psource\bin\IGTNews4Nation2018.pdb
+E:\coding21032018\News4Nation1804\psource\bin\GoogleTranslateAPI.dll
+E:\coding21032018\News4Nation1804\psource\bin\Newtonsoft.Json.dll
+E:\coding21032018\News4Nation1804\psource\bin\GoogleTranslateAPI.xml
+E:\coding21032018\News4Nation1804\psource\obj\Release\IGTNews4Nation.csprojResolveAssemblyReference.cache
+E:\coding21032018\News4Nation1804\psource\obj\Release\IGTNews4Nation2018.dll.licenses
+E:\coding21032018\News4Nation1804\psource\obj\Release\IGTNews4Nation2018.dll
+E:\coding21032018\News4Nation1804\psource\obj\Release\IGTNews4Nation2018.pdb
+E:\coding22042018\News4Nation\psource\bin\xmlw\sitevisit.xml
+E:\coding22042018\News4Nation\psource\bin\IGTNews4Nation2018.dll.config
+E:\coding22042018\News4Nation\psource\bin\IGTNews4Nation2018.dll
+E:\coding22042018\News4Nation\psource\bin\IGTNews4Nation2018.pdb
+E:\coding22042018\News4Nation\psource\bin\GoogleTranslateAPI.dll
+E:\coding22042018\News4Nation\psource\bin\Newtonsoft.Json.dll
+E:\coding22042018\News4Nation\psource\bin\GoogleTranslateAPI.xml
+E:\coding22042018\News4Nation\psource\obj\Release\IGTNews4Nation.csprojResolveAssemblyReference.cache
+E:\coding22042018\News4Nation\psource\obj\Release\IGTNews4Nation2018.dll.licenses
+E:\coding22042018\News4Nation\psource\obj\Release\IGTNews4Nation2018.dll
+E:\coding22042018\News4Nation\psource\obj\Release\IGTNews4Nation2018.pdb
+E:\coding11052018\News4Nation\psource\bin\xmlw\sitevisit.xml
+E:\coding11052018\News4Nation\psource\bin\IGTNews4Nation2018.dll.config
+E:\coding11052018\News4Nation\psource\bin\IGTNews4Nation2018.dll
+E:\coding11052018\News4Nation\psource\bin\IGTNews4Nation2018.pdb
+E:\coding11052018\News4Nation\psource\bin\GoogleTranslateAPI.xml
+E:\coding11052018\News4Nation\psource\obj\Release\IGTNews4Nation.csprojResolveAssemblyReference.cache
+E:\coding11052018\News4Nation\psource\obj\Release\IGTNews4Nation2018.dll.licenses
+E:\coding11052018\News4Nation\psource\obj\Release\IGTNews4Nation2018.dll
+E:\coding11052018\News4Nation\psource\obj\Release\IGTNews4Nation2018.pdb
+E:\coding24052018\News4Nation -wa\psource\bin\xmlw\sitevisit.xml
+E:\coding24052018\News4Nation -wa\psource\bin\IGTNews4Nation2018.dll.config
+E:\coding24052018\News4Nation -wa\psource\bin\IGTNews4Nation2018.dll
+E:\coding24052018\News4Nation -wa\psource\bin\IGTNews4Nation2018.pdb
+E:\coding24052018\News4Nation -wa\psource\bin\GoogleTranslateAPI.xml
+E:\coding24052018\News4Nation -wa\psource\obj\Release\IGTNews4Nation.csprojResolveAssemblyReference.cache
+E:\coding24052018\News4Nation -wa\psource\obj\Release\IGTNews4Nation2018.dll.licenses
+E:\coding24052018\News4Nation -wa\psource\obj\Release\IGTNews4Nation2018.dll
+E:\coding24052018\News4Nation -wa\psource\obj\Release\IGTNews4Nation2018.pdb
+E:\coding06062018\News4Nation -wa\psource\bin\xmlw\sitevisit.xml
+E:\coding06062018\News4Nation -wa\psource\bin\IGTNews4Nation2018.dll.config
+E:\coding06062018\News4Nation -wa\psource\bin\IGTNews4Nation2018.dll
+E:\coding06062018\News4Nation -wa\psource\bin\IGTNews4Nation2018.pdb
+E:\coding06062018\News4Nation -wa\psource\bin\GoogleTranslateAPI.xml
+E:\coding06062018\News4Nation -wa\psource\obj\Release\IGTNews4Nation.csprojResolveAssemblyReference.cache
+E:\coding06062018\News4Nation -wa\psource\obj\Release\IGTNews4Nation2018.dll.licenses
+E:\coding06062018\News4Nation -wa\psource\obj\Release\IGTNews4Nation2018.dll
+E:\coding06062018\News4Nation -wa\psource\obj\Release\IGTNews4Nation2018.pdb
